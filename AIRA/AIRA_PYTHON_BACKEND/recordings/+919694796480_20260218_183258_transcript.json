@@ -1,0 +1,78 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA2770b003b2780c19af78ebc79502a850",
+  "start_time": "2026-02-18T18:32:58.366961",
+  "end_time": "2026-02-18T18:33:21.615152",
+  "duration_seconds": 23.248191,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": null,
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T18:33:00.375676"
+    },
+    {
+      "role": "user",
+      "text": "This call is now being recorded.",
+      "timestamp": "2026-02-18T18:33:03.896069"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] How are you doing today?",
+      "timestamp": "2026-02-18T18:33:04.201229"
+    },
+    {
+      "role": "user",
+      "text": "Hello, Harsh.",
+      "timestamp": "2026-02-18T18:33:06.443568"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] How are you doing today?",
+      "timestamp": "2026-02-18T18:33:06.798751"
+    },
+    {
+      "role": "user",
+      "text": "I'm good. How are you?",
+      "timestamp": "2026-02-18T18:33:09.024509"
+    },
+    {
+      "role": "agent",
+      "text": "I am doing great, thank you for asking. Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T18:33:10.113052"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm.",
+      "timestamp": "2026-02-18T18:33:13.449019"
+    },
+    {
+      "role": "agent",
+      "text": "Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T18:33:14.125610"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_183258.wav"
+}

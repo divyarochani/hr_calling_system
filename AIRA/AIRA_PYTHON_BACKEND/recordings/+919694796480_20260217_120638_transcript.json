@@ -1,0 +1,48 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAd2c192e7d5ef26bb4f9af1a21ceec2d4",
+  "start_time": "2026-02-17T12:06:38.983510",
+  "end_time": "2026-02-17T12:06:51.230251",
+  "duration_seconds": 12.246741,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": 2,
+    "technical_score": null,
+    "overall_score": 2,
+    "interested": "no",
+    "call_status": "Not Interested",
+    "disconnection_reason": "Candidate not looking for opportunity"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "hello",
+      "timestamp": "2026-02-17T12:06:40.563082"
+    },
+    {
+      "role": "user",
+      "text": "No.",
+      "timestamp": "2026-02-17T12:06:43.143404"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-17T12:06:44.401498"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_120638.wav"
+}

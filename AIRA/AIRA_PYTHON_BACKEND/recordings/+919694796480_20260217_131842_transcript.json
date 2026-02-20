@@ -1,0 +1,98 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA9c3e2b67d2fc9882017269f986d4dc99",
+  "start_time": "2026-02-17T13:18:42.394197",
+  "end_time": "2026-02-17T13:19:57.042513",
+  "duration_seconds": 74.648316,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Sudha Rajani",
+    "current_company": "Beta Cube",
+    "current_role": "quality assurance",
+    "desired_role": null,
+    "domain": "quality assurance",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": "2.5",
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "6",
+    "technical_score": "5",
+    "overall_score": "5.5",
+    "interested": null,
+    "call_status": "Disconnected",
+    "disconnection_reason": "Call disconnected unexpectedly"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "hello",
+      "timestamp": "2026-02-17T13:18:43.780302"
+    },
+    {
+      "role": "user",
+      "text": "Hello",
+      "timestamp": "2026-02-17T13:18:46.737376"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Hello! Thank you for calling Kainskep Solutions. My name is Samarth, and I'm an HR executive here. I'll be conducting your screening interview today. [slow] May I please know your full name?",
+      "timestamp": "2026-02-17T13:18:49.159097"
+    },
+    {
+      "role": "user",
+      "text": "Uh, my name is Sudha Rajani.",
+      "timestamp": "2026-02-17T13:19:01.506202"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] Thank you, Sudha. It's a pleasure to speak with you. To start, could you please tell me your current company and your current role there?",
+      "timestamp": "2026-02-17T13:19:03.244277"
+    },
+    {
+      "role": "user",
+      "text": "My current company is Beta Cube and my current role is quality assurance.",
+      "timestamp": "2026-02-17T13:19:19.171930"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] Excellent, Sudha. And what is your total experience in quality assurance?",
+      "timestamp": "2026-02-17T13:19:20.230309"
+    },
+    {
+      "role": "user",
+      "text": "It's 2.5 years.",
+      "timestamp": "2026-02-17T13:19:29.742544"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] Thank you for sharing that, Sudha. Could you please tell me your current CTC in LPA and your expected CTC in LPA?",
+      "timestamp": "2026-02-17T13:19:31.579031"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T13:19:36.449694"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] Yes, Sudha, I'm here. I was asking about your current CTC in LPA and your expected CTC in LPA.",
+      "timestamp": "2026-02-17T13:19:38.350047"
+    },
+    {
+      "role": "user",
+      "text": "Hi, my name is Sudha.",
+      "timestamp": "2026-02-17T13:19:50.195867"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] Hello Sudha, I understand. We just spoke a moment ago. Could you please share your current CTC in LPA and your expected CTC in LPA?",
+      "timestamp": "2026-02-17T13:19:52.260147"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_131842.wav"
+}

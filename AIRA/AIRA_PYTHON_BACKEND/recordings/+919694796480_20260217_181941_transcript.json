@@ -1,0 +1,133 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA31d35aacec644c1a7706634957b60f64",
+  "start_time": "2026-02-17T18:19:41.685597",
+  "end_time": "2026-02-17T18:22:08.293551",
+  "duration_seconds": 146.607954,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Zabell",
+    "current_company": "ABC Private Limited",
+    "current_role": "Junior Associate Tech Developer",
+    "desired_role": "Full Stack Developer",
+    "domain": "project development",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": "3.5",
+    "current_ctc_lpa": "16",
+    "expected_ctc_lpa": "18",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": 7,
+    "technical_score": 6,
+    "overall_score": 6.5,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T18:19:44.550467"
+    },
+    {
+      "role": "agent",
+      "text": "hello ! This is Samarth from Kainskep Solutions. I hope you're having a wonderful day. Are you currently looking for exciting opportunities in any domain?",
+      "timestamp": "2026-02-17T18:19:46.444221"
+    },
+    {
+      "role": "user",
+      "text": "Yeah.",
+      "timestamp": "2026-02-17T18:19:56.761381"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's fantastic! I'm excited to learn more about your career aspirations. Let's explore how we might be able to help you take the next step in your professional journey. To start, could you please share your full name and the domain you're interested in?",
+      "timestamp": "2026-02-17T18:20:00.248531"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my name is Zabell, and I'm interested in project development domain.",
+      "timestamp": "2026-02-17T18:20:18.401590"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Zabell. Just to clarify, when you say \"project development domain,\" are you referring to a specific role like Web Developer, Full Stack Developer, or perhaps something else?",
+      "timestamp": "2026-02-17T18:20:20.960912"
+    },
+    {
+      "role": "user",
+      "text": "Yes, Full Stack Developer.",
+      "timestamp": "2026-02-17T18:20:35.311241"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Excellent! Full Stack Developer is a domain we actively recruit for. Could you please tell me which company you are currently working with and what your current designation is?",
+      "timestamp": "2026-02-17T18:20:37.525478"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my current company is ABC Private Limited, and I'm a junior associate for a tech developer here.",
+      "timestamp": "2026-02-17T18:20:54.126535"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Zabell. So you're a Junior Associate Tech Developer at ABC Private Limited. Could you please share your total years of experience in full stack development?",
+      "timestamp": "2026-02-17T18:20:56.789336"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, so it's around three, three point five years.",
+      "timestamp": "2026-02-17T18:21:11.861233"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Great, so about three and a half years of experience. And what is your current annual CTC, your Cost to Company?",
+      "timestamp": "2026-02-17T18:21:13.645885"
+    },
+    {
+      "role": "user",
+      "text": "Sixteen.",
+      "timestamp": "2026-02-17T18:21:24.426677"
+    },
+    {
+      "role": "agent",
+      "text": "Alright, so your current CTC is sixteen lakhs per annum. What would be your expected CTC for a new role?",
+      "timestamp": "2026-02-17T18:21:25.977490"
+    },
+    {
+      "role": "user",
+      "text": "...",
+      "timestamp": "2026-02-17T18:21:38.608234"
+    },
+    {
+      "role": "agent",
+      "text": "Zabell, are you still there?",
+      "timestamp": "2026-02-17T18:21:38.907950"
+    },
+    {
+      "role": "user",
+      "text": "Yes, it's Katie Neldy here.",
+      "timestamp": "2026-02-17T18:21:44.823994"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] Thank you, Katie. I was asking about your expected CTC. Could you please share what you are looking for in terms of your expected annual salary?",
+      "timestamp": "2026-02-17T18:21:47.126678"
+    },
+    {
+      "role": "user",
+      "text": "It's eighteen LPA.",
+      "timestamp": "2026-02-17T18:21:59.615118"
+    },
+    {
+      "role": "agent",
+      "text": "Alright, so your expected CTC is eighteen LPA. And what is your notice period with your current company, Katie?",
+      "timestamp": "2026-02-17T18:22:01.475562"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_181941.wav"
+}

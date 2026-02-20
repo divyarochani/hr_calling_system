@@ -1,0 +1,148 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAdbf0d50ddfcf5d104b6cfef8eb26a43d",
+  "start_time": "2026-02-19T13:03:02.729844",
+  "end_time": "2026-02-19T13:04:11.450014",
+  "duration_seconds": 68.72017,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": 2,
+    "technical_score": null,
+    "overall_score": 2,
+    "interested": "no",
+    "call_status": "Disconnected",
+    "disconnection_reason": "Candidate not looking for opportunity"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Divya from Kainskep Solutions",
+      "timestamp": "2026-02-19T13:03:05.187489"
+    },
+    {
+      "role": "user",
+      "text": "Hey.",
+      "timestamp": "2026-02-19T13:03:12.325121"
+    },
+    {
+      "role": "agent",
+      "text": "Is this a good time to talk for a few minutes?",
+      "timestamp": "2026-02-19T13:03:12.805974"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm.",
+      "timestamp": "2026-02-19T13:03:14.610612"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today? [happy]",
+      "timestamp": "2026-02-19T13:03:14.824904"
+    },
+    {
+      "role": "user",
+      "text": "[clearing throat] Uh, no, this is not a good time.",
+      "timestamp": "2026-02-19T13:03:21.039007"
+    },
+    {
+      "role": "agent",
+      "text": "I completely understand. Could you please let me know when would be a better time to connect? [polite]",
+      "timestamp": "2026-02-19T13:03:22.546615"
+    },
+    {
+      "role": "user",
+      "text": "Can you pardon me, please, sir?",
+      "timestamp": "2026-02-19T13:03:24.221144"
+    },
+    {
+      "role": "agent",
+      "text": "Of course, no problem at all. Please take your time. Let me know when you're ready to continue. [slow]",
+      "timestamp": "2026-02-19T13:03:26.013309"
+    },
+    {
+      "role": "user",
+      "text": "Okay.",
+      "timestamp": "2026-02-19T13:03:38.579139"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for getting back. Is this a good time to talk for a few minutes now? [calm]",
+      "timestamp": "2026-02-19T13:03:39.852381"
+    },
+    {
+      "role": "user",
+      "text": "[clicking] So-",
+      "timestamp": "2026-02-19T13:03:41.815086"
+    },
+    {
+      "role": "agent",
+      "text": "I'm sorry, I didn't catch that. Could you please repeat? [slow]",
+      "timestamp": "2026-02-19T13:03:42.721471"
+    },
+    {
+      "role": "user",
+      "text": "[clearing throat] No.",
+      "timestamp": "2026-02-19T13:03:46.329073"
+    },
+    {
+      "role": "agent",
+      "text": "I understand. Let me know when you're ready to continue. I'll be here. [calm]",
+      "timestamp": "2026-02-19T13:03:47.691484"
+    },
+    {
+      "role": "user",
+      "text": "No.",
+      "timestamp": "2026-02-19T13:03:49.299836"
+    },
+    {
+      "role": "agent",
+      "text": "I see. I'll...",
+      "timestamp": "2026-02-19T13:03:49.308252"
+    },
+    {
+      "role": "user",
+      "text": "No.",
+      "timestamp": "2026-02-19T13:03:51.192965"
+    },
+    {
+      "role": "agent",
+      "text": "I completely understand. If you're not available right now, please let me know a better time to connect. I'm happy to wait. [calm]",
+      "timestamp": "2026-02-19T13:03:55.189769"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm.",
+      "timestamp": "2026-02-19T13:03:57.859658"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for confirming. Is this a good time to talk for a few minutes? [calm]",
+      "timestamp": "2026-02-19T13:03:59.399378"
+    },
+    {
+      "role": "user",
+      "text": "[clears throat] I don't want to let you know.",
+      "timestamp": "2026-02-19T13:04:06.997510"
+    },
+    {
+      "role": "agent",
+      "text": "I understand. If you're not comfortable discussing right now, please let me know when would be a better time. I'm here to help. [gentle]",
+      "timestamp": "2026-02-19T13:04:09.115308"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260219_130302.wav"
+}

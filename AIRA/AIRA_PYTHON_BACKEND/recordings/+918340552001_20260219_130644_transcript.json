@@ -1,0 +1,108 @@
+{
+  "phone_number": "+918340552001",
+  "call_sid": "CA20a98ba1b8e4512b8ef3bf969132baa8",
+  "start_time": "2026-02-19T13:06:44.851820",
+  "end_time": "2026-02-19T13:08:14.582679",
+  "duration_seconds": 89.730859,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "Android Development",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "6",
+    "technical_score": "5",
+    "overall_score": "5.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Divya from Kainskep Solutions",
+      "timestamp": "2026-02-19T13:06:46.926122"
+    },
+    {
+      "role": "user",
+      "text": "Hi.",
+      "timestamp": "2026-02-19T13:06:53.579125"
+    },
+    {
+      "role": "agent",
+      "text": "Is this a good time to talk for a few minutes?",
+      "timestamp": "2026-02-19T13:06:54.391524"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-19T13:06:58.572708"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-19T13:06:58.765224"
+    },
+    {
+      "role": "user",
+      "text": "I'm doing good.",
+      "timestamp": "2026-02-19T13:07:03.022323"
+    },
+    {
+      "role": "agent",
+      "text": "That's great to hear! The purpose of this call is regarding potential career opportunities with us. May I know if you are currently exploring new job opportunities?",
+      "timestamp": "2026-02-19T13:07:05.771117"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I am looking for job roles in, uh, monstech developer. In monstech.",
+      "timestamp": "2026-02-19T13:07:24.911077"
+    },
+    {
+      "role": "agent",
+      "text": "May I know which domain and role you are currently looking for?",
+      "timestamp": "2026-02-19T13:07:25.589299"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my domain is monthcast.",
+      "timestamp": "2026-02-19T13:07:32.986743"
+    },
+    {
+      "role": "agent",
+      "text": "...",
+      "timestamp": "2026-02-19T13:07:33.105364"
+    },
+    {
+      "role": "user",
+      "text": "I'm role as full stack.",
+      "timestamp": "2026-02-19T13:07:35.345302"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing. Let me confirm—your desired role is Full Stack Developer, and your domain is Mobile Development? Just to clarify, are you referring to Mobile Development or perhaps Full Stack Development with a focus on mobile technologies?",
+      "timestamp": "2026-02-19T13:07:40.375487"
+    },
+    {
+      "role": "user",
+      "text": "No, when did I say mobile? Uh, Android Development or Mobile Development?",
+      "timestamp": "2026-02-19T13:08:01.701261"
+    },
+    {
+      "role": "agent",
+      "text": "I see, thank you for clarifying. So you're looking for a role in Mobile Development, specifically Android Development. Is that correct?",
+      "timestamp": "2026-02-19T13:08:04.026788"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+918340552001_20260219_130644.wav"
+}

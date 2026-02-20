@@ -1,0 +1,153 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA3697c30f454422ae00b3c81e06edad04",
+  "start_time": "2026-02-18T17:13:05.310848",
+  "end_time": "2026-02-18T17:15:09.076958",
+  "duration_seconds": 123.76611,
+  "transfer_requested": true,
+  "transfer_number": "+918340552001",
+  "structured_data": {
+    "candidate_name": "Nutan Kumari",
+    "current_company": "Categrive Solutions",
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "full stack developer",
+    "notice_period": "30 days",
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": "7",
+    "expected_ctc_lpa": "10-12",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "6",
+    "technical_score": null,
+    "overall_score": "6",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T17:13:07.157944"
+    },
+    {
+      "role": "user",
+      "text": "This call is now being recorded.",
+      "timestamp": "2026-02-18T17:13:10.683543"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-18T17:13:10.738569"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-18T17:13:13.322987"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] I'm glad...",
+      "timestamp": "2026-02-18T17:13:14.241461"
+    },
+    {
+      "role": "user",
+      "text": "I'm good.",
+      "timestamp": "2026-02-18T17:13:15.487858"
+    },
+    {
+      "role": "agent",
+      "text": "Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T17:13:16.178512"
+    },
+    {
+      "role": "user",
+      "text": "...",
+      "timestamp": "2026-02-18T17:13:26.583598"
+    },
+    {
+      "role": "agent",
+      "text": "Are you still there?",
+      "timestamp": "2026-02-18T17:13:26.783609"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I am there.",
+      "timestamp": "2026-02-18T17:13:35.819639"
+    },
+    {
+      "role": "agent",
+      "text": "Great. So, are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T17:13:36.842898"
+    },
+    {
+      "role": "user",
+      "text": "[coughing] Yes.",
+      "timestamp": "2026-02-18T17:13:45.288087"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear! To help me understand your profile better, could you please tell me your full name and the domain you are interested in?",
+      "timestamp": "2026-02-18T17:13:47.857070"
+    },
+    {
+      "role": "user",
+      "text": "Like now?",
+      "timestamp": "2026-02-18T17:13:57.796258"
+    },
+    {
+      "role": "agent",
+      "text": "Yes,...",
+      "timestamp": "2026-02-18T17:13:58.540858"
+    },
+    {
+      "role": "user",
+      "text": "Uh, yes. The domain I am-",
+      "timestamp": "2026-02-18T17:14:01.871540"
+    },
+    {
+      "role": "agent",
+      "text": "[confused] I'm sorry, could you please repeat that?",
+      "timestamp": "2026-02-18T17:14:02.469756"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my full name is Nutan Kumari, and my domain is, uh, full stack developer.",
+      "timestamp": "2026-02-18T17:14:14.707219"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Nutan. It's nice to meet you. So, you're interested in a Full Stack Developer role. Could you please tell me about your current company and your current CTC?",
+      "timestamp": "2026-02-18T17:14:17.296496"
+    },
+    {
+      "role": "user",
+      "text": "My current company is Categrive Solutions and my current CTC is, uh, seven LPA.",
+      "timestamp": "2026-02-18T17:14:34.095021"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing that, Nutan. And what is your expected CTC for a Full Stack Developer role?",
+      "timestamp": "2026-02-18T17:14:35.553654"
+    },
+    {
+      "role": "user",
+      "text": "Uh, it is around, uh, ten to twelve.",
+      "timestamp": "2026-02-18T17:14:47.507276"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for letting me know your expected CTC. Could you also tell me your experience level, whether you are a fresher, junior, or senior, and what your notice period is?",
+      "timestamp": "2026-02-18T17:14:49.955157"
+    },
+    {
+      "role": "user",
+      "text": "Yes, uh, I am a experienced person, and my notice period is thirty days.",
+      "timestamp": "2026-02-18T17:15:08.450253"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_171305.wav"
+}

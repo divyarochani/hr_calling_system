@@ -1,0 +1,103 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA6d01534aa2f70b2ef0a442111fe18269",
+  "start_time": "2026-02-18T15:24:17.689865",
+  "end_time": "2026-02-18T15:25:34.375929",
+  "duration_seconds": 76.686064,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": "ABCP",
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "full stack development",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T15:24:19.757123"
+    },
+    {
+      "role": "user",
+      "text": "...",
+      "timestamp": "2026-02-18T15:24:29.141223"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-18T15:24:29.256659"
+    },
+    {
+      "role": "user",
+      "text": "I'm good. How are you?",
+      "timestamp": "2026-02-18T15:24:34.266243"
+    },
+    {
+      "role": "agent",
+      "text": "I'm doing well, thank you for asking. [happy] Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T15:24:35.190298"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T15:24:43.537021"
+    },
+    {
+      "role": "agent",
+      "text": "[great] That's great! To start, could you please tell me your full name and the domain you're interested in?",
+      "timestamp": "2026-02-18T15:24:44.885416"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my full name is and I'm interested in full stack development role.",
+      "timestamp": "2026-02-18T15:24:57.462457"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you. And what would be your experience level for a Full Stack Developer role? Are you a fresher, junior, or senior?",
+      "timestamp": "2026-02-18T15:24:59.148239"
+    },
+    {
+      "role": "user",
+      "text": "I am a junior.",
+      "timestamp": "2026-02-18T15:25:09.351727"
+    },
+    {
+      "role": "agent",
+      "text": "[great] Excellent. Could you please tell me which company you are currently working for?",
+      "timestamp": "2026-02-18T15:25:10.386393"
+    },
+    {
+      "role": "user",
+      "text": "I am working for ABCP.",
+      "timestamp": "2026-02-18T15:25:19.244187"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you. And what is your current CTC, and what are your salary expectations for a junior full stack developer role?",
+      "timestamp": "2026-02-18T15:25:20.862482"
+    },
+    {
+      "role": "user",
+      "text": "...",
+      "timestamp": "2026-02-18T15:25:34.242512"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_152417.wav"
+}

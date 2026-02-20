@@ -1,0 +1,58 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA917d6021f94428017bb187fa3948ed51",
+  "start_time": "2026-02-18T15:30:33.001402",
+  "end_time": "2026-02-18T15:30:58.911402",
+  "duration_seconds": 25.91,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Prashad",
+    "current_company": null,
+    "current_role": null,
+    "desired_role": "full stack development",
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": null,
+    "overall_score": "7",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T15:30:35.516872"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I'm looking for full stack development role.",
+      "timestamp": "2026-02-18T15:30:44.182191"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] How are you doing today?",
+      "timestamp": "2026-02-18T15:30:44.252272"
+    },
+    {
+      "role": "user",
+      "text": "[clearing throat] ...Prashad",
+      "timestamp": "2026-02-18T15:30:53.106395"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T15:30:53.473749"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_153033.wav"
+}

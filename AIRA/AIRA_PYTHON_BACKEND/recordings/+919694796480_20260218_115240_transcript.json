@@ -1,0 +1,58 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA247d78ef3e2e3aa37ea1e8a0de845072",
+  "start_time": "2026-02-18T11:52:40.740936",
+  "end_time": "2026-02-18T11:53:03.548005",
+  "duration_seconds": 22.807069,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "8",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": null,
+    "call_status": null,
+    "disconnection_reason": null
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T11:52:42.783255"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-18T11:52:49.509765"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] How are you doing today?",
+      "timestamp": "2026-02-18T11:52:50.000212"
+    },
+    {
+      "role": "user",
+      "text": "I'm good. How are you?",
+      "timestamp": "2026-02-18T11:52:55.231333"
+    },
+    {
+      "role": "agent",
+      "text": "I am doing well, thank you for asking. [happy] Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T11:52:56.711055"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_115240.wav"
+}

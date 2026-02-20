@@ -1,0 +1,278 @@
+{
+  "phone_number": "+918340552001",
+  "call_sid": "CA85d36988b4d66f825c7306348a87ae6a",
+  "start_time": "2026-02-19T13:09:10.120847",
+  "end_time": "2026-02-19T13:14:52.416799",
+  "duration_seconds": 342.295952,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Divya",
+    "current_company": "ABC Private Limited",
+    "current_role": "Full Stack Developer",
+    "desired_role": "MERN Stack Developer",
+    "domain": "MERN Stack",
+    "notice_period": "40-50 days",
+    "current_location": "Ajmer",
+    "relocation_willing": "yes",
+    "experience_years": "2.8",
+    "current_ctc_lpa": "3.5",
+    "expected_ctc_lpa": "5-6",
+    "email": "DIBYA01@gmail.com",
+    "next_round_availability": "Monday",
+    "communication_score": "8",
+    "technical_score": null,
+    "overall_score": "8",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Divya from Kainskep Solutions",
+      "timestamp": "2026-02-19T13:09:12.098515"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-19T13:09:16.937937"
+    },
+    {
+      "role": "agent",
+      "text": "Is this a good time to talk for a few minutes?",
+      "timestamp": "2026-02-19T13:09:17.527175"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, it is.",
+      "timestamp": "2026-02-19T13:09:22.361286"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-19T13:09:22.514351"
+    },
+    {
+      "role": "user",
+      "text": "I'm doing good.",
+      "timestamp": "2026-02-19T13:09:26.821238"
+    },
+    {
+      "role": "agent",
+      "text": "That's great to hear! The purpose of this call is regarding potential career opportunities with us. May I know if you are currently exploring new job opportunities?",
+      "timestamp": "2026-02-19T13:09:29.769124"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I am looking for full stack development role, especially in modern stack.",
+      "timestamp": "2026-02-19T13:09:43.893878"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing that. Could you please let me know which specific domain and role you're currently looking for? For example, are you interested in MERN Stack, MEAN Stack, or another full stack variant?",
+      "timestamp": "2026-02-19T13:09:47.750698"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm looking for MERN Stack development.",
+      "timestamp": "2026-02-19T13:10:02.498598"
+    },
+    {
+      "role": "agent",
+      "text": "Got it. MERN Stack development is one of our key focus areas. May I know your current location?",
+      "timestamp": "2026-02-19T13:10:04.463886"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm at Ajmer.",
+      "timestamp": "2026-02-19T13:10:12.798205"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing. This is a strictly in-office role based in Jaipur. Would you be comfortable relocating to Jaipur for this opportunity?",
+      "timestamp": "2026-02-19T13:10:15.260517"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I would consider relocation to Jaipur, sure.",
+      "timestamp": "2026-02-19T13:10:27.183972"
+    },
+    {
+      "role": "agent",
+      "text": "That’s great to hear. Could you please share your total years of experience in full stack development, particularly with the MERN stack?",
+      "timestamp": "2026-02-19T13:10:29.606935"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm. I have around two point eight years of experience in full stack development and around one point five years of, uh, MERN stack development experience.",
+      "timestamp": "2026-02-19T13:10:49.360271"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for the details. Could you please tell me your current company and role?",
+      "timestamp": "2026-02-19T13:10:50.612204"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my current company is, uh, ABC Private Limited, and I am also a full stack developer here.",
+      "timestamp": "2026-02-19T13:11:02.753895"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing. Could you please let me know your current notice period?",
+      "timestamp": "2026-02-19T13:11:03.955008"
+    },
+    {
+      "role": "user",
+      "text": "It is around forty to fifty days.",
+      "timestamp": "2026-02-19T13:11:13.302970"
+    },
+    {
+      "role": "agent",
+      "text": "I understand. Currently, our hiring requirement prefers candidates who can join within 30 days. Is your notice period negotiable?",
+      "timestamp": "2026-02-19T13:11:15.606926"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I would, uh, negotiate it. Sure.",
+      "timestamp": "2026-02-19T13:11:28.696884"
+    },
+    {
+      "role": "agent",
+      "text": "That’s good to hear. Could you please share your current CTC and your expected CTC for your next opportunity?",
+      "timestamp": "2026-02-19T13:11:30.335758"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my current CTC is around three point five for LPA per annum, LPA, and my expected CTC is around five to six.",
+      "timestamp": "2026-02-19T13:11:47.993806"
+    },
+    {
+      "role": "agent",
+      "text": "Your expected CTC seems slightly above our current budget for this role. Is your salary negotiable?",
+      "timestamp": "2026-02-19T13:11:50.100292"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, okay, it is negotiable.",
+      "timestamp": "2026-02-19T13:12:00.141283"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for your flexibility. Before we proceed, could you please share your email ID for further communication?",
+      "timestamp": "2026-02-19T13:12:01.719156"
+    },
+    {
+      "role": "user",
+      "text": "Yes, it is D-I-B-Y-A zero one at gmail dot com.",
+      "timestamp": "2026-02-19T13:12:15.844954"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Divya. Could you please confirm your availability for the next round of interviews? For example, are you available this week or next week?",
+      "timestamp": "2026-02-19T13:12:18.135570"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I'm available next week. Upcoming Monday. Is this a good time?",
+      "timestamp": "2026-02-19T13:12:34.688446"
+    },
+    {
+      "role": "agent",
+      "text": "Yes, Monday works well. I’ll note your availability for next week. Just to confirm, your name is Divya, you’re currently with ABC Private Limited as a Full Stack Developer, and you’re looking for a MERN Stack role in Jaipur with a negotiable notice period and expected CTC. Is that correct?",
+      "timestamp": "2026-02-19T13:12:40.417783"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, sure. Just correct.",
+      "timestamp": "2026-02-19T13:13:00.077507"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for confirming. I’d now like to ask you a few role-specific technical questions. Is this a good time to proceed?",
+      "timestamp": "2026-02-19T13:13:02.160073"
+    },
+    {
+      "role": "user",
+      "text": "Um, it would be good if you will take that interview on Monday too.",
+      "timestamp": "2026-02-19T13:13:15.654397"
+    },
+    {
+      "role": "agent",
+      "text": "Of...",
+      "timestamp": "2026-02-19T13:13:16.150983"
+    },
+    {
+      "role": "user",
+      "text": "Yeah ... if it works well?",
+      "timestamp": "2026-02-19T13:13:19.218077"
+    },
+    {
+      "role": "agent",
+      "text": "I understand. Let’s keep the technical round for Monday as well. I’ll make sure to coordinate with the team. Thank you for your time and cooperation. Your screening interview is now completed. Our team will review your profile, and if shortlisted, we will contact you for the next round. Have a great day ahead.",
+      "timestamp": "2026-02-19T13:13:24.425511"
+    },
+    {
+      "role": "user",
+      "text": "Bye.",
+      "timestamp": "2026-02-19T13:13:40.159960"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for your...",
+      "timestamp": "2026-02-19T13:13:41.283935"
+    },
+    {
+      "role": "user",
+      "text": "On which basis?",
+      "timestamp": "2026-02-19T13:13:42.798072"
+    },
+    {
+      "role": "agent",
+      "text": "I'm sorry, I didn't catch that. Could you please repeat your question?",
+      "timestamp": "2026-02-19T13:13:43.814363"
+    },
+    {
+      "role": "user",
+      "text": "How would you shortlist my profile if you haven't asked me any questions?",
+      "timestamp": "2026-02-19T13:13:54.439900"
+    },
+    {
+      "role": "agent",
+      "text": "I understand your concern. While we didn’t conduct the technical round during this call, your profile is being shortlisted based on your experience, role alignment, relocation willingness, and communication during the screening. The technical assessment will be part of the next round, which we’ll schedule on Monday. Your details have been noted, and we’ll proceed accordingly. Thank you for your patience.",
+      "timestamp": "2026-02-19T13:14:01.861120"
+    },
+    {
+      "role": "user",
+      "text": "Okay, thank you.",
+      "timestamp": "2026-02-19T13:14:22.588363"
+    },
+    {
+      "role": "agent",
+      "text": "You're welcome! If you have any more questions before Monday, feel free to reach out. Have a wonderful day ahead.",
+      "timestamp": "2026-02-19T13:14:24.381041"
+    },
+    {
+      "role": "user",
+      "text": "... and, uh, hope to see you next time.",
+      "timestamp": "2026-02-19T13:14:40.023878"
+    },
+    {
+      "role": "agent",
+      "text": "...",
+      "timestamp": "2026-02-19T13:14:40.774608"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm.",
+      "timestamp": "2026-02-19T13:14:42.933169"
+    },
+    {
+      "role": "agent",
+      "text": "I’m here, Divya. Just confirming—your next round is scheduled for Monday, and we’ll be connecting then. I’ll make sure to send you a quick reminder. Have a great day!",
+      "timestamp": "2026-02-19T13:14:45.858146"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+918340552001_20260219_130910.wav"
+}

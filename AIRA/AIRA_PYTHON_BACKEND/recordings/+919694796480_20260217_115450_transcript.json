@@ -1,0 +1,128 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA9ed94c8cf784fffa22f412cc9cfe5d1f",
+  "start_time": "2026-02-17T11:54:50.872467",
+  "end_time": "2026-02-17T11:56:44.217519",
+  "duration_seconds": 113.345052,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Rupya",
+    "current_company": null,
+    "current_role": null,
+    "desired_role": "full stack development",
+    "domain": "full stack development",
+    "notice_period": "15 days",
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": "2.5",
+    "current_ctc_lpa": "2.5",
+    "expected_ctc_lpa": "5.5",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "6",
+    "technical_score": "5",
+    "overall_score": "5.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "hello",
+      "timestamp": "2026-02-17T11:54:52.313906"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T11:54:54.247757"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-17T11:54:55.999399"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-17T11:55:04.001199"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] Great! To start, could you please share your full name and the domain you're interested in?",
+      "timestamp": "2026-02-17T11:55:05.485856"
+    },
+    {
+      "role": "user",
+      "text": "[clicking sound] So, mera naam Rupya hai. And I am interested in domain full spectrum development.",
+      "timestamp": "2026-02-17T11:55:16.212083"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] Alright, Rupya. So, you're interested in full stack development. Could you please spell out your full name for me?",
+      "timestamp": "2026-02-17T11:55:17.989211"
+    },
+    {
+      "role": "user",
+      "text": "It's the I-V-Y-P.",
+      "timestamp": "2026-02-17T11:55:28.651017"
+    },
+    {
+      "role": "agent",
+      "text": "[Understood] Got it. And could you also tell me your current company and your current role there?",
+      "timestamp": "2026-02-17T11:55:29.695582"
+    },
+    {
+      "role": "user",
+      "text": "Hi, my name is and my role is",
+      "timestamp": "2026-02-17T11:55:41.366661"
+    },
+    {
+      "role": "agent",
+      "text": "Okay, thank you. And what is your total experience in years?",
+      "timestamp": "2026-02-17T11:55:42.193183"
+    },
+    {
+      "role": "user",
+      "text": "My experience, two point five years, sir.",
+      "timestamp": "2026-02-17T11:55:53.264253"
+    },
+    {
+      "role": "agent",
+      "text": "Alright, so two and a half years of experience. Could you please share your current CTC and your expected CTC?",
+      "timestamp": "2026-02-17T11:55:55.008224"
+    },
+    {
+      "role": "user",
+      "text": "It's two point five LPA. Expected CTC is five point five LPA.",
+      "timestamp": "2026-02-17T11:56:11.030506"
+    },
+    {
+      "role": "agent",
+      "text": "[Understood] Okay, so your current CTC is two point five LPA and your expected is five point five LPA. What is your notice period with your current company?",
+      "timestamp": "2026-02-17T11:56:13.098062"
+    },
+    {
+      "role": "user",
+      "text": "It's fifteen days.",
+      "timestamp": "2026-02-17T11:56:27.917743"
+    },
+    {
+      "role": "agent",
+      "text": "[Understood] Alright, a fifteen-day notice period. And what is your current location, Rupya?",
+      "timestamp": "2026-02-17T11:56:29.280564"
+    },
+    {
+      "role": "user",
+      "text": "It is there, Rupya.",
+      "timestamp": "2026-02-17T11:56:37.744421"
+    },
+    {
+      "role": "agent",
+      "text": "[Understood] Okay, and are you willing to relocate to Jaipur for this role?",
+      "timestamp": "2026-02-17T11:56:38.758268"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_115450.wav"
+}

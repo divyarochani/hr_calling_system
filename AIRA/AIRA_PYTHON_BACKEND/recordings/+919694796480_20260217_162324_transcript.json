@@ -1,0 +1,88 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA694f714725f16519ef9aa4889f4f6644",
+  "start_time": "2026-02-17T16:23:24.547109",
+  "end_time": "2026-02-17T16:24:21.155828",
+  "duration_seconds": 56.608719,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "full stack development drones",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "hello",
+      "timestamp": "2026-02-17T16:23:26.001705"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T16:23:27.676769"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is Samarth, HR Executive from Kainskep Solutions. How are you today?",
+      "timestamp": "2026-02-17T16:23:28.364503"
+    },
+    {
+      "role": "user",
+      "text": "I'm good. How are you?",
+      "timestamp": "2026-02-17T16:23:36.426533"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear. I'm doing well too, thank you. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-17T16:23:38.097504"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I'm looking for a full stack developer role.",
+      "timestamp": "2026-02-17T16:23:47.993887"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] That's great. May I know which domain you are currently interested in?",
+      "timestamp": "2026-02-17T16:23:49.051151"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I think construction development.",
+      "timestamp": "2026-02-17T16:23:57.968816"
+    },
+    {
+      "role": "agent",
+      "text": "[slow] I see. While we appreciate your interest, we are not currently hiring for construction development roles. We are primarily focused on IT domains like Web Developer, Full Stack Developer, Quality Assurance Engineer, Business Analyst, Data Scientist, and Gen AI Developer. However, we can keep your profile for future opportunities if something suitable comes up.",
+      "timestamp": "2026-02-17T16:24:02.720762"
+    },
+    {
+      "role": "user",
+      "text": "I said full stack development drones.",
+      "timestamp": "2026-02-17T16:24:14.460036"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] Ah, my apologies! I misheard you. Full Stack Developer roles are definitely something we hire for. That's great to hear. To help me understand your experience better, could you please tell me how many years of experience you have in full stack development?",
+      "timestamp": "2026-02-17T16:24:17.998334"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_162324.wav"
+}

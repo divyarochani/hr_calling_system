@@ -1,0 +1,4 @@
+"""
+AI Calling Agent - Backend Package
+"""
+__version__ = "2.0.0"

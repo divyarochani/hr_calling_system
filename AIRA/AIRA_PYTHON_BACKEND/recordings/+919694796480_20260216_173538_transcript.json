@@ -1,0 +1,108 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAd781bb70ddd3dc4539d8375af46ba628",
+  "start_time": "2026-02-16T17:35:38.556732",
+  "end_time": "2026-02-16T17:37:45.834765",
+  "duration_seconds": 127.278033,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Divya Rajani",
+    "current_company": "ABC Private Limited",
+    "current_role": "Web Developer",
+    "desired_role": null,
+    "domain": "Web Development",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": "2.5",
+    "expected_ctc_lpa": "5",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": "5",
+    "overall_score": "6",
+    "interested": "yes",
+    "call_status": "Screen Rejected",
+    "disconnection_reason": "Expected CTC exceeds budget"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hii , this is AIRA an AI recruiter from kainskep solutions.",
+      "timestamp": "2026-02-16T17:35:41.294131"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-16T17:35:49.451839"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-16T17:35:50.789214"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I'm looking.",
+      "timestamp": "2026-02-16T17:36:01.097296"
+    },
+    {
+      "role": "agent",
+      "text": "That's great to hear! To help me understand what you're looking for, could you please tell me which domain you are interested in?",
+      "timestamp": "2026-02-16T17:36:03.170848"
+    },
+    {
+      "role": "user",
+      "text": "I am interested in web development.",
+      "timestamp": "2026-02-16T17:36:14.441703"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Excellent! Web development is a domain we frequently hire for.\n\nCould you please share your full name and the company you are currently working with?",
+      "timestamp": "2026-02-16T17:36:16.614983"
+    },
+    {
+      "role": "user",
+      "text": "My name is Divya Rajani, and I am working with ABC Private Limited.",
+      "timestamp": "2026-02-16T17:36:31.604829"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Divya. And what is your current role at ABC Private Limited? Also, could you tell me your current CTC and what you are expecting?",
+      "timestamp": "2026-02-16T17:36:34.134173"
+    },
+    {
+      "role": "user",
+      "text": "My current role is I'm a web developer here only and my current CTC is, uh, two point five LPA and my expected CTC is five LPA.",
+      "timestamp": "2026-02-16T17:36:58.706358"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing that, Divya. So, you're a Web Developer with a current CTC of two point five LPA, and you're looking for five LPA.\n\nCould you also let me know your experience level? Are you a fresher, junior, or senior web developer?",
+      "timestamp": "2026-02-16T17:37:03.007326"
+    },
+    {
+      "role": "user",
+      "text": "I am a junior web developer.",
+      "timestamp": "2026-02-16T17:37:23.232814"
+    },
+    {
+      "role": "agent",
+      "text": "Alright, Divya. As a junior web developer, our budget for this role is around three LPA. Would that be negotiable from your side?",
+      "timestamp": "2026-02-16T17:37:25.284239"
+    },
+    {
+      "role": "user",
+      "text": "No, it's not negotiable. I want five LPA.",
+      "timestamp": "2026-02-16T17:37:38.930669"
+    },
+    {
+      "role": "agent",
+      "text": "I completely understand, Divya. Thank you for your time. Take care and goodbye.",
+      "timestamp": "2026-02-16T17:37:40.003420"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260216_173538.wav"
+}

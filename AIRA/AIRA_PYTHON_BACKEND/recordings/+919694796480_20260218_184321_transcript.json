@@ -1,0 +1,153 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAc755e2cba8b1c7e4dd7e84245a759704",
+  "start_time": "2026-02-18T18:43:21.149902",
+  "end_time": "2026-02-18T18:46:38.624708",
+  "duration_seconds": 197.474806,
+  "transfer_requested": true,
+  "transfer_number": "+918340552001",
+  "structured_data": {
+    "candidate_name": "Nutan Kumari",
+    "current_company": "Solutions Private Limited",
+    "current_role": "front-end developer",
+    "desired_role": "Full Stack Developer",
+    "domain": "Full Stack Development",
+    "notice_period": "negotiable, less than 30 days",
+    "current_location": "Bangalore",
+    "relocation_willing": "yes",
+    "experience_years": "1.8",
+    "current_ctc_lpa": "7",
+    "expected_ctc_lpa": "8-10",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": "6",
+    "overall_score": "6.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T18:43:23.153414"
+    },
+    {
+      "role": "user",
+      "text": "Hi.",
+      "timestamp": "2026-02-18T18:43:29.733037"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-18T18:43:29.875234"
+    },
+    {
+      "role": "user",
+      "text": "I'm good.",
+      "timestamp": "2026-02-18T18:43:34.870977"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Great to hear! Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T18:43:35.760505"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T18:43:42.752196"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Excellent! To start, could you please tell me your full name and the domain you're interested in?",
+      "timestamp": "2026-02-18T18:43:44.000675"
+    },
+    {
+      "role": "user",
+      "text": "Yes, uh, my full name is Nutan Kumari, and the domain I am interested in, uh, is front-end developer, but I am also looking for back-end developer opportunities.",
+      "timestamp": "2026-02-18T18:44:05.339811"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Nutan. So, you're interested in both front-end and back-end developer roles. Could you please clarify which domain you'd like to be considered for primarily?",
+      "timestamp": "2026-02-18T18:44:07.523463"
+    },
+    {
+      "role": "user",
+      "text": "Yes, um, uh, for a stack developer.",
+      "timestamp": "2026-02-18T18:44:21.160285"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Alright, Full Stack Developer it is. And could you please tell me your current company and your current role there?",
+      "timestamp": "2026-02-18T18:44:22.519783"
+    },
+    {
+      "role": "user",
+      "text": "Uh, yeah, my current company is Solutions Private Limited, and currently I am working as a front-end developer.",
+      "timestamp": "2026-02-18T18:44:41.108244"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you for that information, Nutan. Could you also share your current CTC and your expected CTC?",
+      "timestamp": "2026-02-18T18:44:42.450551"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my current CTC is seven LPA and expected is, uh, eight to ten LPA.",
+      "timestamp": "2026-02-18T18:44:58.357817"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you for sharing that, Nutan. And what is your notice period with your current company?",
+      "timestamp": "2026-02-18T18:44:59.730581"
+    },
+    {
+      "role": "user",
+      "text": "Uh, it is around, uh, thirty to ninety days. Uh, but, uh, it is-- but, uh, yeah, it is ninety days.",
+      "timestamp": "2026-02-18T18:45:16.729658"
+    },
+    {
+      "role": "agent",
+      "text": "[sad] I see. Unfortunately, we are prioritizing candidates with shorter notice periods, ideally less than thirty days. We will keep your profile for future opportunities. Thank you for your time, Nutan, and goodbye.\n",
+      "timestamp": "2026-02-18T18:45:20.591028"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, uh, I can, I can negotiate. I can negotiate. I can negotiate. I can negotiate. [chuckles]",
+      "timestamp": "2026-02-18T18:45:34.043120"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear, Nutan. So, you're saying you can negotiate your notice period to be less than thirty days?",
+      "timestamp": "2026-02-18T18:45:35.650307"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T18:45:43.474231"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Excellent. That works for us. Now, could you please tell me your current location and if you are willing to relocate to Jaipur?",
+      "timestamp": "2026-02-18T18:45:45.948759"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my current location is, uh, Bangalore, and I can, uh, relocate, but do you provide, like, uh, uh, remote job opportunities or hybrid, anything like that?",
+      "timestamp": "2026-02-18T18:46:07.641227"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] We do offer hybrid options, but for this role, we would require you to be available in Jaipur. Since you're willing to relocate, that's perfectly fine. Now, moving on, could you tell me about your experience level? Are you a fresher, junior, or senior developer?",
+      "timestamp": "2026-02-18T18:46:11.889214"
+    },
+    {
+      "role": "user",
+      "text": "Uh, I am an, uh, experienced person with over, uh, one point eight years of experience.",
+      "timestamp": "2026-02-18T18:46:38.185229"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_184321.wav"
+}

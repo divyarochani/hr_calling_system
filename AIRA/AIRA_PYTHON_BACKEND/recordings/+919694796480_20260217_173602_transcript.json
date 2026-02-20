@@ -1,0 +1,93 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAd6cdb2e5e24250d25a1465994cf9861f",
+  "start_time": "2026-02-17T17:36:02.777718",
+  "end_time": "2026-02-17T17:37:25.689491",
+  "duration_seconds": 82.911773,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Dhavya",
+    "current_company": "Dottle",
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "Full Stack Development",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T17:36:06.248420"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, good morning! This is Samarth from Kainskep Solutions. I hope you're having a great day. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-17T17:36:08.244814"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-17T17:36:17.683670"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear! To help me understand what might be a good fit, could you please tell me which domain you're interested in?",
+      "timestamp": "2026-02-17T17:36:19.724934"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I'm looking for some sector, job.",
+      "timestamp": "2026-02-17T17:36:30.897949"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] I understand. To help me narrow down the opportunities, could you please specify which domain you're interested in? For example, are you looking for roles in Web Development, Data Science, Quality Assurance, or something else?",
+      "timestamp": "2026-02-17T17:36:33.830275"
+    },
+    {
+      "role": "user",
+      "text": "I'm looking for full stack development role.",
+      "timestamp": "2026-02-17T17:36:49.664956"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Excellent! Full Stack Development is a domain we frequently hire for. Could you please share your full name and the company you're currently working with?",
+      "timestamp": "2026-02-17T17:36:51.749403"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm. Mera naam Dhavya hai. Meri company ka naam Bottle hai.",
+      "timestamp": "2026-02-17T17:37:05.292965"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Dhavya. And could you please spell out the name of your current company for me?",
+      "timestamp": "2026-02-17T17:37:06.454693"
+    },
+    {
+      "role": "user",
+      "text": "That's D-O-T-T-L-E.",
+      "timestamp": "2026-02-17T17:37:16.092485"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Got it, Dhavya. Thank you. So, Dottle. And what is your current role at Dottle? Also, how many years of experience do you have in full stack development?",
+      "timestamp": "2026-02-17T17:37:18.658646"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_173602.wav"
+}

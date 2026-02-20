@@ -1,0 +1,78 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA45010f36ca24345ba3885664eb84bdaa",
+  "start_time": "2026-02-18T18:50:00.493651",
+  "end_time": "2026-02-18T18:51:00.435595",
+  "duration_seconds": 59.941944,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": null,
+    "technical_score": null,
+    "overall_score": null,
+    "interested": null,
+    "call_status": "Disconnected",
+    "disconnection_reason": "Call disconnected unexpectedly"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T18:50:07.312854"
+    },
+    {
+      "role": "user",
+      "text": "Hello. Hello.",
+      "timestamp": "2026-02-18T18:50:09.800329"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Hello! [happy] How are you doing today?",
+      "timestamp": "2026-02-18T18:50:10.644586"
+    },
+    {
+      "role": "user",
+      "text": "Hi.",
+      "timestamp": "2026-02-18T18:50:13.328343"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Hi there! [happy] Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T18:50:14.070899"
+    },
+    {
+      "role": "user",
+      "text": "I'm-",
+      "timestamp": "2026-02-18T18:50:17.646258"
+    },
+    {
+      "role": "agent",
+      "text": "[slow] I'm sorry, [slow] I didn't quite catch that. Could you please repeat it?",
+      "timestamp": "2026-02-18T18:50:18.561576"
+    },
+    {
+      "role": "user",
+      "text": "...back to zero.",
+      "timestamp": "2026-02-18T18:50:32.613936"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] No worries at all! [happy] Let's start fresh. How are you doing today?",
+      "timestamp": "2026-02-18T18:50:33.502416"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_185000.wav"
+}

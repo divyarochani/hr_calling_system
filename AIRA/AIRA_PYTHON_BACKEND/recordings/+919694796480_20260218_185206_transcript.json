@@ -1,0 +1,113 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAb40c7fc6a445c39c78efb99352c11957",
+  "start_time": "2026-02-18T18:52:06.341469",
+  "end_time": "2026-02-18T18:53:44.408865",
+  "duration_seconds": 98.067396,
+  "transfer_requested": true,
+  "transfer_number": "+918340552001",
+  "structured_data": {
+    "candidate_name": "Newton",
+    "current_company": "Kingscape Solution",
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "backend and frontend",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": "5",
+    "expected_ctc_lpa": "10",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": "6",
+    "overall_score": "6.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T18:52:08.492105"
+    },
+    {
+      "role": "user",
+      "text": "Hi.",
+      "timestamp": "2026-02-18T18:52:14.537448"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-18T18:52:14.546607"
+    },
+    {
+      "role": "user",
+      "text": "I'm good.",
+      "timestamp": "2026-02-18T18:52:20.047729"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear! Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T18:52:21.298916"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T18:52:28.209111"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Wonderful! To start, could you please tell me your full name and the domain you're interested in?",
+      "timestamp": "2026-02-18T18:52:29.250224"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my full name is Newton, and the domain I am interested in is related to backend and frontend.",
+      "timestamp": "2026-02-18T18:52:44.672805"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Newton. So, you're interested in both backend and frontend, which sounds like a Full Stack Developer role. Is that correct?",
+      "timestamp": "2026-02-18T18:52:46.096447"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T18:52:55.905608"
+    },
+    {
+      "role": "agent",
+      "text": "[great] Great. And what is your current company and your current CTC?",
+      "timestamp": "2026-02-18T18:52:57.077435"
+    },
+    {
+      "role": "user",
+      "text": "My current company is Kingscape Solution and CTC is five LPS.",
+      "timestamp": "2026-02-18T18:53:08.051044"
+    },
+    {
+      "role": "agent",
+      "text": "[okay] Thank you for that information. And what is your expected CTC?",
+      "timestamp": "2026-02-18T18:53:08.906137"
+    },
+    {
+      "role": "user",
+      "text": "It is around ten rupees.",
+      "timestamp": "2026-02-18T18:53:17.925118"
+    },
+    {
+      "role": "agent",
+      "text": "[understood] I understand. For a Full Stack Developer role, our current budget is around five point five to six LPA. Would that be negotiable from your side?",
+      "timestamp": "2026-02-18T18:53:20.485256"
+    },
+    {
+      "role": "user",
+      "text": "Okay. But, uh, I am an experienced person, so I need to have, uh, uh-- I should get salary, uh, around ten LPA.",
+      "timestamp": "2026-02-18T18:53:44.022445"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_185206.wav"
+}

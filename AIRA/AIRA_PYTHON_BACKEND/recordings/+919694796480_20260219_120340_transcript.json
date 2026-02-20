@@ -1,0 +1,78 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAad9ca858fbbca8b85f1f81180b2e18e7",
+  "start_time": "2026-02-19T12:03:40.089793",
+  "end_time": "2026-02-19T12:04:20.640467",
+  "duration_seconds": 40.550674,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": null,
+    "technical_score": null,
+    "overall_score": null,
+    "interested": null,
+    "call_status": "Disconnected",
+    "disconnection_reason": "Candidate busy"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Divya from Kainskep Solutions",
+      "timestamp": "2026-02-19T12:03:42.076249"
+    },
+    {
+      "role": "user",
+      "text": "Hello, Divya.",
+      "timestamp": "2026-02-19T12:03:49.216271"
+    },
+    {
+      "role": "agent",
+      "text": "I hope you're doing well today. Is this a good time to talk for a few minutes?",
+      "timestamp": "2026-02-19T12:03:50.736111"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-19T12:03:53.376909"
+    },
+    {
+      "role": "agent",
+      "text": "I hope you're doing well today. Is this a good time to talk for a few minutes about potential opportunities at Kainskep Solutions?",
+      "timestamp": "2026-02-19T12:03:55.196555"
+    },
+    {
+      "role": "user",
+      "text": "...when we deserve a good time.",
+      "timestamp": "2026-02-19T12:04:01.663294"
+    },
+    {
+      "role": "agent",
+      "text": "I completely understand. Let me know when would be a better time for you to connect, and I’ll be happy to reach out then.",
+      "timestamp": "2026-02-19T12:04:03.724609"
+    },
+    {
+      "role": "user",
+      "text": "...",
+      "timestamp": "2026-02-19T12:04:15.754915"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, I'm here if you'd like to continue the conversation. Is there a better time that works for you?",
+      "timestamp": "2026-02-19T12:04:17.430645"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260219_120340.wav"
+}

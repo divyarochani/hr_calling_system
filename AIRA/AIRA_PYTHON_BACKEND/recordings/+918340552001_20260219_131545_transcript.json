@@ -1,0 +1,213 @@
+{
+  "phone_number": "+918340552001",
+  "call_sid": "CA7d1f7ff16d3714a82bdcf61372e64429",
+  "start_time": "2026-02-19T13:15:45.403139",
+  "end_time": "2026-02-19T13:20:08.130569",
+  "duration_seconds": 262.72743,
+  "transfer_requested": true,
+  "transfer_number": "+918340552001",
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": "Skin Skip Solution",
+    "current_role": "developer",
+    "desired_role": "front-end developer",
+    "domain": "front-end development",
+    "notice_period": "120 days",
+    "current_location": "Delhi",
+    "relocation_willing": "yes",
+    "experience_years": null,
+    "current_ctc_lpa": "5",
+    "expected_ctc_lpa": "7",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": 6,
+    "technical_score": 6,
+    "overall_score": 6,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Divya from Kainskep Solutions",
+      "timestamp": "2026-02-19T13:15:47.244801"
+    },
+    {
+      "role": "user",
+      "text": "Hi.",
+      "timestamp": "2026-02-19T13:15:58.972319"
+    },
+    {
+      "role": "agent",
+      "text": "Is this a good time to talk for a few minutes?",
+      "timestamp": "2026-02-19T13:15:59.857718"
+    },
+    {
+      "role": "user",
+      "text": "Hi.",
+      "timestamp": "2026-02-19T13:16:01.262763"
+    },
+    {
+      "role": "agent",
+      "text": "Is this a good time to talk for a few minutes?",
+      "timestamp": "2026-02-19T13:16:01.938848"
+    },
+    {
+      "role": "user",
+      "text": "No.",
+      "timestamp": "2026-02-19T13:16:06.871257"
+    },
+    {
+      "role": "agent",
+      "text": "Sure, when would be a better time to connect?",
+      "timestamp": "2026-02-19T13:16:07.592586"
+    },
+    {
+      "role": "user",
+      "text": "I can't tell you.",
+      "timestamp": "2026-02-19T13:16:13.285736"
+    },
+    {
+      "role": "agent",
+      "text": "I understand. Could you please let me know when you're available for a quick call? I’ll make sure to reach out at a convenient time for you.",
+      "timestamp": "2026-02-19T13:16:15.954364"
+    },
+    {
+      "role": "user",
+      "text": "Okay. Mm, I am available now.",
+      "timestamp": "2026-02-19T13:16:26.840876"
+    },
+    {
+      "role": "agent",
+      "text": "Great, thank you for confirming. I’ll keep this brief and get straight to the point. How are you doing today?",
+      "timestamp": "2026-02-19T13:16:28.750906"
+    },
+    {
+      "role": "user",
+      "text": "Good.",
+      "timestamp": "2026-02-19T13:16:36.872632"
+    },
+    {
+      "role": "agent",
+      "text": "That’s wonderful to hear. The purpose of this call is regarding potential career opportunities with us. May I know if you are currently exploring new job opportunities?",
+      "timestamp": "2026-02-19T13:16:39.595318"
+    },
+    {
+      "role": "user",
+      "text": "Yeah.",
+      "timestamp": "2026-02-19T13:16:52.294876"
+    },
+    {
+      "role": "agent",
+      "text": "Perfect, thank you for letting me know. May I know which domain and role you are currently looking for?",
+      "timestamp": "2026-02-19T13:16:53.472266"
+    },
+    {
+      "role": "user",
+      "text": "Uh, yes. Uh, I'm looking for a role, uh, I am a front-end developer, but I have mostly coded in Angular. Uh, so I am looking for a front-end developer roles where Angular is required.",
+      "timestamp": "2026-02-19T13:17:17.898171"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing that. We do have opportunities in the front-end development domain, particularly for roles involving Angular. May I know your current location?",
+      "timestamp": "2026-02-19T13:17:20.619909"
+    },
+    {
+      "role": "user",
+      "text": "Ah, yeah, my city is Delhi.",
+      "timestamp": "2026-02-19T13:17:34.022229"
+    },
+    {
+      "role": "agent",
+      "text": "I see. This is a strictly in-office role based in Jaipur. Would you be comfortable relocating to Jaipur for this position?",
+      "timestamp": "2026-02-19T13:17:36.242127"
+    },
+    {
+      "role": "user",
+      "text": "Yeah.",
+      "timestamp": "2026-02-19T13:17:45.801351"
+    },
+    {
+      "role": "agent",
+      "text": "That’s great to hear. Thank you for confirming your willingness to relocate. Could you please share your current notice period?",
+      "timestamp": "2026-02-19T13:17:47.491301"
+    },
+    {
+      "role": "user",
+      "text": "It is one twenty days.",
+      "timestamp": "2026-02-19T13:17:58.731445"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing. Our hiring process prefers candidates who can join within 30 days. Is your notice period negotiable?",
+      "timestamp": "2026-02-19T13:18:01.095532"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm. There is a buyout option in my company.",
+      "timestamp": "2026-02-19T13:18:18.565185"
+    },
+    {
+      "role": "agent",
+      "text": "That’s good to know. Thank you for confirming that the notice period is negotiable. Could you please share your total experience in years?",
+      "timestamp": "2026-02-19T13:18:21.131564"
+    },
+    {
+      "role": "user",
+      "text": "I did not say that the notice period is negotiable, uh, but I did say that it-- uh, there is a buyout option available.",
+      "timestamp": "2026-02-19T13:18:36.885606"
+    },
+    {
+      "role": "agent",
+      "text": "I understand. You mentioned there’s a buyout option available, which could help in reducing the notice period. Just to confirm, would you be able to join within 30 days if the buyout is processed?",
+      "timestamp": "2026-02-19T13:18:40.627184"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I can.",
+      "timestamp": "2026-02-19T13:18:53.438998"
+    },
+    {
+      "role": "agent",
+      "text": "Excellent. Thank you for confirming. Could you please share your current company and current role?",
+      "timestamp": "2026-02-19T13:18:55.498906"
+    },
+    {
+      "role": "user",
+      "text": "Uh, current company is Skin Skip Solution, uh, and my CTC-- my role is, uh, uh, developer.",
+      "timestamp": "2026-02-19T13:19:17.697524"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing. Could you please confirm your current CTC in LPA?",
+      "timestamp": "2026-02-19T13:19:18.452025"
+    },
+    {
+      "role": "user",
+      "text": "It is five.",
+      "timestamp": "2026-02-19T13:19:29.998899"
+    },
+    {
+      "role": "agent",
+      "text": "Got it. What would be your expected CTC for your next opportunity?",
+      "timestamp": "2026-02-19T13:19:31.340502"
+    },
+    {
+      "role": "user",
+      "text": "Around seven to eight.",
+      "timestamp": "2026-02-19T13:19:40.024889"
+    },
+    {
+      "role": "agent",
+      "text": "Your expected CTC seems slightly above our current budget for this role. Is your salary negotiable?",
+      "timestamp": "2026-02-19T13:19:42.179568"
+    },
+    {
+      "role": "user",
+      "text": "No, it is not negotiable because, uh, I am already a experienced person. So, uh, seven LPA is a very low amount that I am asking. Low salary that I am asking from you.",
+      "timestamp": "2026-02-19T13:20:06.171126"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+918340552001_20260219_131545.wav"
+}

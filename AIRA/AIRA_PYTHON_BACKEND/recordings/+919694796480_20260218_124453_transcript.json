@@ -1,0 +1,238 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAe8dd295855e847a6de1035e02da2abaa",
+  "start_time": "2026-02-18T12:44:53.332166",
+  "end_time": "2026-02-18T12:48:16.426314",
+  "duration_seconds": 203.094148,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Vivya",
+    "current_company": "ABC Private Limited",
+    "current_role": "junior web developer",
+    "desired_role": "front end developer",
+    "domain": "web development",
+    "notice_period": "30 to 35 days",
+    "current_location": "Jaipur",
+    "relocation_willing": null,
+    "experience_years": "2.5",
+    "current_ctc_lpa": "3.5 to 4",
+    "expected_ctc_lpa": "6.5 to 7",
+    "email": "divya@gmail.com",
+    "next_round_availability": "Saturday",
+    "communication_score": "7",
+    "technical_score": "6",
+    "overall_score": "6.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T12:44:55.295981"
+    },
+    {
+      "role": "user",
+      "text": "Hello, Harsh.",
+      "timestamp": "2026-02-18T12:45:01.258353"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] How are you doing today?",
+      "timestamp": "2026-02-18T12:45:01.487091"
+    },
+    {
+      "role": "user",
+      "text": "I'm good. How are you?",
+      "timestamp": "2026-02-18T12:45:06.254633"
+    },
+    {
+      "role": "agent",
+      "text": "I am doing well, thank you. Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T12:45:07.398542"
+    },
+    {
+      "role": "user",
+      "text": "Yes, ma'am.",
+      "timestamp": "2026-02-18T12:45:15.967992"
+    },
+    {
+      "role": "agent",
+      "text": "Great. To start, could you please share your full name with me?",
+      "timestamp": "2026-02-18T12:45:16.806172"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my name is Vivya.",
+      "timestamp": "2026-02-18T12:45:23.746730"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Vivya. And what is your current professional domain?",
+      "timestamp": "2026-02-18T12:45:24.794159"
+    },
+    {
+      "role": "user",
+      "text": "My current professional domain is, uh, a junior web developer.",
+      "timestamp": "2026-02-18T12:45:33.931149"
+    },
+    {
+      "role": "agent",
+      "text": "Alright, so you're a junior web developer. What kind of role are you looking for?",
+      "timestamp": "2026-02-18T12:45:35.133873"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm looking for a front end developer role. More kind of a front end development.",
+      "timestamp": "2026-02-18T12:45:45.737820"
+    },
+    {
+      "role": "agent",
+      "text": "Okay, a front-end developer role. And which company are you currently working with?",
+      "timestamp": "2026-02-18T12:45:46.687656"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm working with ABC Private Limited.",
+      "timestamp": "2026-02-18T12:45:56.421711"
+    },
+    {
+      "role": "agent",
+      "text": "Alright. And what is your current role there?",
+      "timestamp": "2026-02-18T12:45:57.028948"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I told you all that I'm a, uh, junior web developer there.",
+      "timestamp": "2026-02-18T12:46:04.760648"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Right, a junior web developer. And how many years of total experience do you have, Vivya?",
+      "timestamp": "2026-02-18T12:46:06.300188"
+    },
+    {
+      "role": "user",
+      "text": "I have two point five years of experience.",
+      "timestamp": "2026-02-18T12:46:16.146533"
+    },
+    {
+      "role": "agent",
+      "text": "Okay, two and a half years. And what is your current CTC in LPA?",
+      "timestamp": "2026-02-18T12:46:17.155654"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm. Your current CD is three point five to around four LPA.",
+      "timestamp": "2026-02-18T12:46:28.874304"
+    },
+    {
+      "role": "agent",
+      "text": "Okay, three point five to four LPA. And what is your expected CTC?",
+      "timestamp": "2026-02-18T12:46:29.852259"
+    },
+    {
+      "role": "user",
+      "text": "If I expected CTC is six point five to seven around.",
+      "timestamp": "2026-02-18T12:46:41.843340"
+    },
+    {
+      "role": "agent",
+      "text": "Alright, six point five to seven LPA. What is your notice period?",
+      "timestamp": "2026-02-18T12:46:42.898018"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm. um, it is almost around thirty to thirty-five days.",
+      "timestamp": "2026-02-18T12:46:54.428777"
+    },
+    {
+      "role": "agent",
+      "text": "Okay, thirty to thirty-five days. And where are you currently located?",
+      "timestamp": "2026-02-18T12:46:55.309597"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm from Jaipur.",
+      "timestamp": "2026-02-18T12:47:03.051204"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Great. This role is work-from-office in Jaipur. Could you please share your email address with me?",
+      "timestamp": "2026-02-18T12:47:04.945630"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my email address is rybya@gmail.com.",
+      "timestamp": "2026-02-18T12:47:17.262187"
+    },
+    {
+      "role": "agent",
+      "text": "Could you please spell that out for me?",
+      "timestamp": "2026-02-18T12:47:17.535677"
+    },
+    {
+      "role": "user",
+      "text": "...D-I-V-Y-A @G-M-A-I-N dot C-O-M.",
+      "timestamp": "2026-02-18T12:47:27.132603"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you. Just to confirm, that's D. I. V. Y. A. at gmail dot com. Is that correct?",
+      "timestamp": "2026-02-18T12:47:29.038666"
+    },
+    {
+      "role": "user",
+      "text": "Yes, yes.",
+      "timestamp": "2026-02-18T12:47:37.398773"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Perfect. Lastly, what is your availability for the next round of interviews?",
+      "timestamp": "2026-02-18T12:47:38.809738"
+    },
+    {
+      "role": "user",
+      "text": "Yeah.",
+      "timestamp": "2026-02-18T12:47:43.959357"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] What is your availability for the next round of interviews?",
+      "timestamp": "2026-02-18T12:47:44.374477"
+    },
+    {
+      "role": "user",
+      "text": "Hello?",
+      "timestamp": "2026-02-18T12:47:54.229470"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Yes, Vivya. What is your availability for the next round of interviews?",
+      "timestamp": "2026-02-18T12:47:55.027177"
+    },
+    {
+      "role": "user",
+      "text": "What?",
+      "timestamp": "2026-02-18T12:47:59.778999"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] When would you be available for the next round of interviews?",
+      "timestamp": "2026-02-18T12:48:00.880349"
+    },
+    {
+      "role": "user",
+      "text": "I'm available on Saturday.",
+      "timestamp": "2026-02-18T12:48:08.309442"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Okay, so you're available on Saturday. Thank you for providing all this information, Vivya. We will get back to you shortly regarding the next steps. Take care and goodbye.\n",
+      "timestamp": "2026-02-18T12:48:10.708952"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_124453.wav"
+}

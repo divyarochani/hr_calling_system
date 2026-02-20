@@ -1,0 +1,148 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA1fb7449524be810a148345357ee3d4ad",
+  "start_time": "2026-02-18T13:17:41.546739",
+  "end_time": "2026-02-18T13:19:59.940543",
+  "duration_seconds": 138.393804,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Stabea",
+    "current_company": "ABC Private Limited",
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "full-stack development",
+    "notice_period": "25 days",
+    "current_location": "Jaipur",
+    "relocation_willing": "yes",
+    "experience_years": null,
+    "current_ctc_lpa": "3.5",
+    "expected_ctc_lpa": "5",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T13:17:43.995347"
+    },
+    {
+      "role": "user",
+      "text": "Hello, Harsh.",
+      "timestamp": "2026-02-18T13:17:51.081981"
+    },
+    {
+      "role": "agent",
+      "text": "Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-18T13:17:51.996820"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I am.",
+      "timestamp": "2026-02-18T13:17:57.578027"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Great! To start, could you please tell me your full name and the domain you're interested in?",
+      "timestamp": "2026-02-18T13:17:58.750746"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my full name is Kajal and I'm interested in first and developer role.",
+      "timestamp": "2026-02-18T13:18:10.585702"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Kajal. So, you're interested in a Full Stack Developer role. Could you please spell out your full name for me?",
+      "timestamp": "2026-02-18T13:18:12.146518"
+    },
+    {
+      "role": "user",
+      "text": "My name is not Kajal. My name is Sabea. It's S-T-A-B-E-A.",
+      "timestamp": "2026-02-18T13:18:24.887255"
+    },
+    {
+      "role": "agent",
+      "text": "[sad] Apologies, Stabea. Thank you for correcting me. I've updated your name in our system.\n\nCould you please confirm the domain you're interested in?",
+      "timestamp": "2026-02-18T13:18:27.016770"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm interested in full-stack development role.",
+      "timestamp": "2026-02-18T13:18:40.046225"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you for confirming, Stabea.\n\nCould you please tell me your current company and your current CTC?",
+      "timestamp": "2026-02-18T13:18:41.476266"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my current company is ABC Private Limited and my CTC is three point five LPA.",
+      "timestamp": "2026-02-18T13:18:55.465280"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you for that information, Stabea. And what is your expected CTC?",
+      "timestamp": "2026-02-18T13:18:56.263380"
+    },
+    {
+      "role": "user",
+      "text": "My expected CTC is around five LPA.",
+      "timestamp": "2026-02-18T13:19:09.131570"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Stabea. And what is your experience level? Are you a fresher, junior, or senior?",
+      "timestamp": "2026-02-18T13:19:10.842299"
+    },
+    {
+      "role": "user",
+      "text": "Hello?",
+      "timestamp": "2026-02-18T13:19:11.766180"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Stabea. And what is your experience level? Are you a fresher, junior, or senior?",
+      "timestamp": "2026-02-18T13:19:12.887486"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm a junior.",
+      "timestamp": "2026-02-18T13:19:18.923943"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you for clarifying, Stabea.\n\nAnd what is your notice period with your current company?",
+      "timestamp": "2026-02-18T13:19:20.008211"
+    },
+    {
+      "role": "user",
+      "text": "It is twenty-five days.",
+      "timestamp": "2026-02-18T13:19:30.946892"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Stabea. That's well within our requirements.\n\nCould you please tell me your current location and if you are willing to relocate to Jaipur?",
+      "timestamp": "2026-02-18T13:19:32.779760"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my location is Jaipur.",
+      "timestamp": "2026-02-18T13:19:44.019092"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great, Stabea! Since you're already in Jaipur, we don't need to worry about relocation.\n\nNow, to understand your technical skills better, could you tell me about your experience with front-end frameworks like React or Angular?",
+      "timestamp": "2026-02-18T13:19:47.206600"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_131741.wav"
+}

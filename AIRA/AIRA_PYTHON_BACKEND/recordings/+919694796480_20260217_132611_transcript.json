@@ -1,0 +1,88 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA1da5b02b6a0ca8bfd405421f13cdf03d",
+  "start_time": "2026-02-17T13:26:11.654175",
+  "end_time": "2026-02-17T13:26:46.453074",
+  "duration_seconds": 34.798899,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": null,
+    "technical_score": null,
+    "overall_score": null,
+    "interested": null,
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "hello",
+      "timestamp": "2026-02-17T13:26:13.142662"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T13:26:15.472949"
+    },
+    {
+      "role": "agent",
+      "text": "Hello! How are you doing today? Is this a good time to talk?",
+      "timestamp": "2026-02-17T13:26:16.220589"
+    },
+    {
+      "role": "user",
+      "text": "Hi.",
+      "timestamp": "2026-02-17T13:26:20.853253"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] Hello! [Enthusiastic] How are you doing today? Is this a good time to talk?",
+      "timestamp": "2026-02-17T13:26:21.959629"
+    },
+    {
+      "role": "user",
+      "text": "Oh, good. How are you?",
+      "timestamp": "2026-02-17T13:26:23.530529"
+    },
+    {
+      "role": "agent",
+      "text": "I am doing well, thank you for asking! I'm calling from Kainskep Solutions. May I please know your full name?",
+      "timestamp": "2026-02-17T13:26:25.900322"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-17T13:26:27.446222"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] Great! To start, could you please tell me your full name?",
+      "timestamp": "2026-02-17T13:26:28.710516"
+    },
+    {
+      "role": "user",
+      "text": "Yes, sure.",
+      "timestamp": "2026-02-17T13:26:39.429508"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] Thank you! And what is your current company and your current role there?",
+      "timestamp": "2026-02-17T13:26:40.596443"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_132611.wav"
+}

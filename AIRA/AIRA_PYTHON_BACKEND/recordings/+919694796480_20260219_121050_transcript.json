@@ -1,0 +1,123 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA7cc39ef5554d6e2ac7c1d2c9b0a7e469",
+  "start_time": "2026-02-19T12:10:50.736679",
+  "end_time": "2026-02-19T12:12:47.678776",
+  "duration_seconds": 116.942097,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "6",
+    "technical_score": null,
+    "overall_score": "6",
+    "interested": "no",
+    "call_status": "Not Interested",
+    "disconnection_reason": "Candidate not looking for opportunity"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Divya from Kainskep Solutions",
+      "timestamp": "2026-02-19T12:10:52.663690"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-19T12:10:57.671072"
+    },
+    {
+      "role": "agent",
+      "text": "Is this a good time to talk for a few minutes?",
+      "timestamp": "2026-02-19T12:10:58.259826"
+    },
+    {
+      "role": "user",
+      "text": "...",
+      "timestamp": "2026-02-19T12:11:07.425648"
+    },
+    {
+      "role": "agent",
+      "text": "...",
+      "timestamp": "2026-02-19T12:11:08.027569"
+    },
+    {
+      "role": "user",
+      "text": "Yes, it is.",
+      "timestamp": "2026-02-19T12:11:09.324374"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-19T12:11:09.589881"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm doing good. How are you?",
+      "timestamp": "2026-02-19T12:11:15.259897"
+    },
+    {
+      "role": "agent",
+      "text": "I'm doing well, thank you for asking! [happy] I hope you're having a great day so far.",
+      "timestamp": "2026-02-19T12:11:16.889627"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-19T12:11:25.240514"
+    },
+    {
+      "role": "agent",
+      "text": "The purpose of this call is regarding potential career opportunities with us. May I know if you are currently exploring new job opportunities?",
+      "timestamp": "2026-02-19T12:11:27.123548"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm. not looking for any opportunities, how did you get my number?",
+      "timestamp": "2026-02-19T12:11:54.241189"
+    },
+    {
+      "role": "agent",
+      "text": "[neutral] I understand your concern. This call was initiated as part of our talent outreach process, and your profile was shared with us through a professional network. We’re currently exploring candidates for roles in the IT industry, particularly in software development. If you're open to hearing about potential opportunities, I’d be happy to share more details. Would that be alright?",
+      "timestamp": "2026-02-19T12:12:01.193994"
+    },
+    {
+      "role": "user",
+      "text": "I said, okay, sure.",
+      "timestamp": "2026-02-19T12:12:31.938425"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for confirming. [happy] To better understand your background, could you please share which domain and role you're currently interested in?",
+      "timestamp": "2026-02-19T12:12:34.147389"
+    },
+    {
+      "role": "user",
+      "text": "I am interested in-",
+      "timestamp": "2026-02-19T12:12:45.709841"
+    },
+    {
+      "role": "agent",
+      "text": "I'm listening...",
+      "timestamp": "2026-02-19T12:12:46.816355"
+    },
+    {
+      "role": "user",
+      "text": "I'm not interested.",
+      "timestamp": "2026-02-19T12:12:47.524402"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260219_121050.wav"
+}

@@ -1,0 +1,88 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA424236ebe81cec1d6e31e29fc6f204d0",
+  "start_time": "2026-02-17T11:46:10.064290",
+  "end_time": "2026-02-17T11:47:12.781399",
+  "duration_seconds": 62.717109,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": null,
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "yes",
+    "call_status": "Disconnected",
+    "disconnection_reason": "Call disconnected unexpectedly"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "hello",
+      "timestamp": "2026-02-17T11:46:11.596516"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T11:46:14.042498"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-17T11:46:14.966771"
+    },
+    {
+      "role": "user",
+      "text": "Yes, ma'am.",
+      "timestamp": "2026-02-17T11:46:24.345372"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] That's great to hear! To help me understand your profile better, could you please share your full name and the domain you're specializing in?",
+      "timestamp": "2026-02-17T11:46:26.132462"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my name is and my middle name is W W.",
+      "timestamp": "2026-02-17T11:46:41.287230"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] Thank you for sharing your name. Could you please also tell me what domain you specialize in, for example, Web Developer or Quality Assurance?",
+      "timestamp": "2026-02-17T11:46:43.099642"
+    },
+    {
+      "role": "user",
+      "text": "Oh, .",
+      "timestamp": "2026-02-17T11:46:54.077800"
+    },
+    {
+      "role": "agent",
+      "text": "[Understood] Thank you. And what domain are you specializing in?",
+      "timestamp": "2026-02-17T11:46:54.975506"
+    },
+    {
+      "role": "user",
+      "text": "My mother came from-",
+      "timestamp": "2026-02-17T11:47:03.899981"
+    },
+    {
+      "role": "agent",
+      "text": "[Patient] I understand. To clarify, what kind of job role or area of expertise are you looking for? For example, are you a web developer, a data scientist, or something else?",
+      "timestamp": "2026-02-17T11:47:06.192569"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_114610.wav"
+}

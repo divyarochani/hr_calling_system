@@ -1,0 +1,83 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA270fb19335611cd9c99a39a52cbfa662",
+  "start_time": "2026-02-16T12:57:54.912903",
+  "end_time": "2026-02-16T12:58:41.158416",
+  "duration_seconds": 46.245513,
+  "transfer_requested": true,
+  "transfer_number": "+919602681408",
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": "full stack development",
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "6",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "yes",
+    "call_status": "Disconnected",
+    "disconnection_reason": "Requested callback"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hii , this is AIRA an AI recruiter from kainskep solutions.",
+      "timestamp": "2026-02-16T12:57:57.655651"
+    },
+    {
+      "role": "user",
+      "text": "Hello, AIRA.",
+      "timestamp": "2026-02-16T12:58:06.184512"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-16T12:58:07.222713"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-16T12:58:15.639113"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Great! Which domain are you looking for?",
+      "timestamp": "2026-02-16T12:58:16.550300"
+    },
+    {
+      "role": "user",
+      "text": "I am looking for full stack development.",
+      "timestamp": "2026-02-16T12:58:24.804916"
+    },
+    {
+      "role": "agent",
+      "text": "Is this a good time to talk for a short screening interview?",
+      "timestamp": "2026-02-16T12:58:25.515493"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-16T12:58:31.461457"
+    },
+    {
+      "role": "agent",
+      "text": "Before we begin, can I confirm your full name and the company you are currently working with?",
+      "timestamp": "2026-02-16T12:58:32.153035"
+    },
+    {
+      "role": "user",
+      "text": "Can you transfer the call?",
+      "timestamp": "2026-02-16T12:58:40.817550"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260216_125754.wav"
+}

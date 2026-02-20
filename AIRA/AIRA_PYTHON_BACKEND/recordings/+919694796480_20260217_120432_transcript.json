@@ -1,0 +1,68 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CAca5dab680db04e70cb5c025fbda96c65",
+  "start_time": "2026-02-17T12:04:32.234936",
+  "end_time": "2026-02-17T12:05:07.121419",
+  "duration_seconds": 34.886483,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "6",
+    "technical_score": null,
+    "overall_score": "6",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "hello",
+      "timestamp": "2026-02-17T12:04:33.707730"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T12:04:35.051645"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-17T12:04:36.273303"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-17T12:04:44.467405"
+    },
+    {
+      "role": "agent",
+      "text": "[Enthusiastic] That's great to hear! To help me understand what might be a good fit, could you please tell me your full name and what domain you're interested in?",
+      "timestamp": "2026-02-17T12:04:46.644141"
+    },
+    {
+      "role": "user",
+      "text": "Can you speak in Hindi, please?",
+      "timestamp": "2026-02-17T12:04:56.781354"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Haan bilkul! Main AIRA hoon Kainskep Solutions se. Kya aap kisi khaas domain mein job opportunities dhoondh rahe hain?",
+      "timestamp": "2026-02-17T12:04:58.832650"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_120432.wav"
+}

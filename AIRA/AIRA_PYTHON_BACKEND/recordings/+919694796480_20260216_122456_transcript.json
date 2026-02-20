@@ -1,0 +1,158 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA2a5f8d7a634b5c8e9389caf27fc7083d",
+  "start_time": "2026-02-16T12:24:56.540200",
+  "end_time": "2026-02-16T12:27:52.192029",
+  "duration_seconds": 175.651829,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Divya Rajani",
+    "current_company": "ABC Private Limited",
+    "current_role": "Junior Associate Full Stack DevOps Engineer",
+    "desired_role": "Associate Full Stack Developer",
+    "domain": "Full Stack Development",
+    "notice_period": "25 to 30 days",
+    "current_location": "Ahmedabad",
+    "relocation_willing": "yes",
+    "experience_years": "1.5",
+    "current_ctc_lpa": "2.5",
+    "expected_ctc_lpa": "5",
+    "email": "divya@gmail.com",
+    "next_round_availability": null,
+    "communication_score": "8",
+    "technical_score": "7",
+    "overall_score": "7.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hii , this is AIRA an AI recruiter from kainskep solutions.",
+      "timestamp": "2026-02-16T12:24:59.969309"
+    },
+    {
+      "role": "user",
+      "text": "Hello, how are you?",
+      "timestamp": "2026-02-16T12:25:09.045955"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-16T12:25:09.613010"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-16T12:25:19.453056"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Great! Which domain are you looking for?",
+      "timestamp": "2026-02-16T12:25:20.042934"
+    },
+    {
+      "role": "user",
+      "text": "I'm looking for full stack development.",
+      "timestamp": "2026-02-16T12:25:27.144360"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Excellent. Is this a good time to talk for a short screening interview?",
+      "timestamp": "2026-02-16T12:25:27.743295"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-16T12:25:32.554295"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Wonderful. Before we begin, can I confirm your full name and the company you are currently working with?",
+      "timestamp": "2026-02-16T12:25:33.815558"
+    },
+    {
+      "role": "user",
+      "text": "My name is Divya Rajani and I'm working with ABC Private Limited.",
+      "timestamp": "2026-02-16T12:25:45.928107"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Divya. What is your current role and how many years of experience do you have?",
+      "timestamp": "2026-02-16T12:25:47.170308"
+    },
+    {
+      "role": "user",
+      "text": "My current role is Junior Associate Full Stack DevOps Engineer and then I have an experience of one point five years.",
+      "timestamp": "2026-02-16T12:26:02.313834"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for that information. What role are you aiming for in your next opportunity?",
+      "timestamp": "2026-02-16T12:26:03.365330"
+    },
+    {
+      "role": "user",
+      "text": "I am looking for associate full stack developer opportunity.",
+      "timestamp": "2026-02-16T12:26:13.823686"
+    },
+    {
+      "role": "agent",
+      "text": "Understood. What is your notice period?",
+      "timestamp": "2026-02-16T12:26:14.482248"
+    },
+    {
+      "role": "user",
+      "text": "It is twenty-five to thirty days.",
+      "timestamp": "2026-02-16T12:26:22.769072"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you. What is your current location, and are you willing to relocate to Jaipur if required?",
+      "timestamp": "2026-02-16T12:26:24.050627"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my current location is Ahmedabad and I am willing to relocate.",
+      "timestamp": "2026-02-16T12:26:37.547566"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's good to know. Can you tell me about your experience with front-end frameworks like React or Angular, and also your proficiency in back-end technologies such as Node dot js or Python with Django or Flask?",
+      "timestamp": "2026-02-16T12:26:40.771327"
+    },
+    {
+      "role": "user",
+      "text": "Yes, uh, I have worked with React and for back, backend, I have worked with Node and Python also.",
+      "timestamp": "2026-02-16T12:27:03.447166"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you for sharing that. What is your current CTC, expected CTC, your preferred email address spelled letter-by-letter, and if shortlisted, when would you be available for the next round?",
+      "timestamp": "2026-02-16T12:27:06.361942"
+    },
+    {
+      "role": "user",
+      "text": "My current CTC is two point five LPA. My expected CTC is five LPA, and my email address is D-I-V-Y-A at G-M-A-I-L dot C-O-M. And yes, I'll be available for the next round.",
+      "timestamp": "2026-02-16T12:27:36.405442"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for that information. Just to confirm, your email address is divya@gmail.com. Is that correct?",
+      "timestamp": "2026-02-16T12:27:37.907431"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-16T12:27:47.318580"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for your time. Your screening interview is complete. Based on your responses, shortlisted candidates will be contacted for the next round. Take care and goodbye.",
+      "timestamp": "2026-02-16T12:27:49.769726"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260216_122456.wav"
+}

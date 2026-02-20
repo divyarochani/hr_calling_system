@@ -1,0 +1,148 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA077fd5b513e13ab4d91aa5f94e18b735",
+  "start_time": "2026-02-16T12:45:37.297560",
+  "end_time": "2026-02-16T12:48:26.944603",
+  "duration_seconds": 169.647043,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Srishti Ahuja",
+    "current_company": "ABC Private Limited",
+    "current_role": "senior web developer",
+    "desired_role": "full stack developer",
+    "domain": "full stack development",
+    "notice_period": "30 days",
+    "current_location": "Admer",
+    "relocation_willing": "yes",
+    "experience_years": "2",
+    "current_ctc_lpa": "2.5",
+    "expected_ctc_lpa": "5.5",
+    "email": "srishti@gmail.com",
+    "next_round_availability": "18th February",
+    "communication_score": "8",
+    "technical_score": "7",
+    "overall_score": "7.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hii , this is AIRA an AI recruiter from kainskep solutions.",
+      "timestamp": "2026-02-16T12:45:39.970618"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-16T12:45:48.848621"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-16T12:45:49.640517"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-16T12:45:59.434259"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear! Which domain are you looking for?",
+      "timestamp": "2026-02-16T12:46:00.195127"
+    },
+    {
+      "role": "user",
+      "text": "I am looking for full stack development.",
+      "timestamp": "2026-02-16T12:46:07.847995"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for sharing that. Is this a good time to talk for a short screening interview?",
+      "timestamp": "2026-02-16T12:46:08.992323"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-16T12:46:16.123399"
+    },
+    {
+      "role": "agent",
+      "text": "Great. Before we begin, can I confirm your full name and the company you are currently working with?",
+      "timestamp": "2026-02-16T12:46:17.318138"
+    },
+    {
+      "role": "user",
+      "text": "Uh, my full name is Srishti Ahuja and, um, I'm working with ABC Private Limited.",
+      "timestamp": "2026-02-16T12:46:31.868533"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Srishti. What is your current role and how many years of experience do you have?",
+      "timestamp": "2026-02-16T12:46:33.305023"
+    },
+    {
+      "role": "user",
+      "text": "My current role is, uh, senior web developer, and I have an experience of two years.",
+      "timestamp": "2026-02-16T12:46:47.981664"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for that information. What role are you aiming for in your next opportunity?",
+      "timestamp": "2026-02-16T12:46:48.998395"
+    },
+    {
+      "role": "user",
+      "text": "I'm aiming for a full stack developer role.",
+      "timestamp": "2026-02-16T12:46:58.965468"
+    },
+    {
+      "role": "agent",
+      "text": "Understood. What is your notice period?",
+      "timestamp": "2026-02-16T12:46:59.452437"
+    },
+    {
+      "role": "user",
+      "text": "It is thirty days.",
+      "timestamp": "2026-02-16T12:47:07.357615"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you. What is your current location, and are you willing to relocate to Jaipur if required?",
+      "timestamp": "2026-02-16T12:47:08.792339"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my current location is Admer and I am willing to relocate.",
+      "timestamp": "2026-02-16T12:47:22.104910"
+    },
+    {
+      "role": "agent",
+      "text": "Alright. Can you tell me about your experience with front-end frameworks like React or Angular, and which one you prefer for full-stack development?",
+      "timestamp": "2026-02-16T12:47:24.404103"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I have worked with React.js, and, uh, I am available for React J-JS and full-stack development.",
+      "timestamp": "2026-02-16T12:47:44.381750"
+    },
+    {
+      "role": "agent",
+      "text": "That's good to know. What is your current CTC, expected CTC, your preferred email address spelled letter-by-letter, and if shortlisted, when would you be available for the next round?",
+      "timestamp": "2026-02-16T12:47:46.822719"
+    },
+    {
+      "role": "user",
+      "text": "My current CTC is two point five LPA. My expected CTC is five point five LPA. And my email address is S-R-I-S-H-T-I at G-M-A-I-L dot C-O-M. And if shortlisted, I would be available on 18th February.",
+      "timestamp": "2026-02-16T12:48:19.214971"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for your time. Your screening interview is complete. Based on your responses, shortlisted candidates will be contacted for the next round. Take care and goodbye.",
+      "timestamp": "2026-02-16T12:48:21.543688"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260216_124537.wav"
+}

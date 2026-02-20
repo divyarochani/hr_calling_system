@@ -1,0 +1,68 @@
+{
+  "phone_number": "unknown",
+  "call_sid": "CA3a2c70c9c423571d3248c1dfa56f9711",
+  "start_time": "2026-02-18T15:31:29.367930",
+  "end_time": "2026-02-18T15:32:06.966328",
+  "duration_seconds": 37.598398,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": null,
+    "technical_score": null,
+    "overall_score": null,
+    "interested": null,
+    "call_status": null,
+    "disconnection_reason": null
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T15:31:31.533606"
+    },
+    {
+      "role": "user",
+      "text": "Hello, I am looking for product development opportunities.",
+      "timestamp": "2026-02-18T15:31:40.442609"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-18T15:31:40.558726"
+    },
+    {
+      "role": "user",
+      "text": "I said I am looking for full stack development opportunities.",
+      "timestamp": "2026-02-18T15:31:49.263255"
+    },
+    {
+      "role": "agent",
+      "text": "[sad] I am sorry, I didn't get that. [neutral] How are you doing today?",
+      "timestamp": "2026-02-18T15:31:50.270504"
+    },
+    {
+      "role": "user",
+      "text": "I said I am looking for full stack development opportunity.",
+      "timestamp": "2026-02-18T15:32:01.800069"
+    },
+    {
+      "role": "agent",
+      "text": "[sad] I am sorry, I didn't get that. [neutral] How are you doing today?",
+      "timestamp": "2026-02-18T15:32:02.866772"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\unknown_20260218_153129.wav"
+}

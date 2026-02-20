@@ -1,0 +1,298 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA624d05f2c37d4f240753e7adda91c06b",
+  "start_time": "2026-02-18T16:25:32.936862",
+  "end_time": "2026-02-18T16:32:37.753473",
+  "duration_seconds": 424.816611,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Divya",
+    "current_company": null,
+    "current_role": "Freelancer",
+    "desired_role": "Full Stack Developer Intern",
+    "domain": "Full Stack Development",
+    "notice_period": "immediate",
+    "current_location": "Jaipur",
+    "relocation_willing": "no",
+    "experience_years": "0",
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": "divya@gmail.com",
+    "next_round_availability": "Saturday",
+    "communication_score": "7",
+    "technical_score": "5",
+    "overall_score": "6",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T16:25:34.945069"
+    },
+    {
+      "role": "user",
+      "text": "Hello, Harsh.",
+      "timestamp": "2026-02-18T16:25:41.060414"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-18T16:25:41.285230"
+    },
+    {
+      "role": "user",
+      "text": "I am good. How are you?",
+      "timestamp": "2026-02-18T16:25:46.482734"
+    },
+    {
+      "role": "agent",
+      "text": "I am doing great, thank you for asking. Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T16:25:47.565151"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I'm open. What, what type of domain do you provide? What type of opportunities do you provide?",
+      "timestamp": "2026-02-18T16:26:01.647872"
+    },
+    {
+      "role": "agent",
+      "text": "We have opportunities in Web Development, Full Stack Development, Quality Assurance, Business Analysis, Data Science, and Gen AI Development. Do any of these domains interest you?",
+      "timestamp": "2026-02-18T16:26:04.102018"
+    },
+    {
+      "role": "user",
+      "text": "Yeah. And how much, uh, experience do you need for full stack development?",
+      "timestamp": "2026-02-18T16:26:22.303575"
+    },
+    {
+      "role": "agent",
+      "text": "For Full Stack Development, we have positions for Fresher, Junior, and Senior levels. A Fresher would be an internship candidate, Junior requires one plus years of experience, and Senior requires three to four plus years of experience. What is your experience level?",
+      "timestamp": "2026-02-18T16:26:26.233743"
+    },
+    {
+      "role": "user",
+      "text": "So, in, in terms of how much amount? In terms of how much amount, uh, are you willing to pay?",
+      "timestamp": "2026-02-18T16:26:46.345457"
+    },
+    {
+      "role": "agent",
+      "text": "We can discuss salary once we determine your experience level and the specific role. Could you please tell me your name and your current company?",
+      "timestamp": "2026-02-18T16:26:48.826269"
+    },
+    {
+      "role": "user",
+      "text": "My name is Divya, and I'm a freelancer. I don't work at any company, so I would be joining you as an indoor.",
+      "timestamp": "2026-02-18T16:27:03.571851"
+    },
+    {
+      "role": "agent",
+      "text": "[slow] Alright Divya. So you're looking for an internship as a Full Stack Developer. Could you please share your current CTC and what your expected CTC would be? Also, what is your notice period?",
+      "timestamp": "2026-02-18T16:27:06.479680"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, exactly.",
+      "timestamp": "2026-02-18T16:27:12.516723"
+    },
+    {
+      "role": "agent",
+      "text": "[slow] Could you please share your current CTC and your expected CTC?",
+      "timestamp": "2026-02-18T16:27:13.603833"
+    },
+    {
+      "role": "user",
+      "text": "Yeah.",
+      "timestamp": "2026-02-18T16:27:17.631153"
+    },
+    {
+      "role": "agent",
+      "text": "[slow] CTC?",
+      "timestamp": "2026-02-18T16:27:17.802718"
+    },
+    {
+      "role": "user",
+      "text": "Sí.",
+      "timestamp": "2026-02-18T16:27:19.465738"
+    },
+    {
+      "role": "agent",
+      "text": "[slow] Could you please share your current CTC and your expected CTC?",
+      "timestamp": "2026-02-18T16:27:20.283569"
+    },
+    {
+      "role": "user",
+      "text": "See, I am not working, so why would be my current CTC or any notice period?",
+      "timestamp": "2026-02-18T16:27:37.833361"
+    },
+    {
+      "role": "agent",
+      "text": "I understand you're not currently working, Divya. Since you're looking for an internship, our budget for a Fresher or intern is around ten thousand rupees per month. Does that align with your expectations?",
+      "timestamp": "2026-02-18T16:27:40.691815"
+    },
+    {
+      "role": "user",
+      "text": "Yeah.",
+      "timestamp": "2026-02-18T16:27:52.086667"
+    },
+    {
+      "role": "agent",
+      "text": "Great. And what is your current location, and would you be willing to relocate to Jaipur if needed?",
+      "timestamp": "2026-02-18T16:27:53.493484"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my current location is Jaipur, so any relocation won't be necessary.",
+      "timestamp": "2026-02-18T16:28:05.941791"
+    },
+    {
+      "role": "agent",
+      "text": "That's perfect, Divya. Since you're interested in a Full Stack Developer internship, could you tell me a bit about your experience with front-end and back-end technologies? For example, what frameworks or languages are you familiar with?",
+      "timestamp": "2026-02-18T16:28:09.457530"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, uh, in front end I have View-- I have used React and JavaScript and TypeScript. And for backend, I have used Node with Express and MongoDB for database.",
+      "timestamp": "2026-02-18T16:28:33.554833"
+    },
+    {
+      "role": "agent",
+      "text": "That's a good set of skills, Divya. Have you worked on any projects where you integrated these front-end and back-end technologies? If so, could you briefly describe one?",
+      "timestamp": "2026-02-18T16:28:35.789159"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I have worked with, uh, many learning projects. Like, I have made a weather application, I have made a calculator, I have, uh, solved some mathematical questions, and, uh, similar JavaScript questions I have solved.",
+      "timestamp": "2026-02-18T16:29:05.094034"
+    },
+    {
+      "role": "agent",
+      "text": "That's good to hear you've been actively working on projects. When you say \"learning projects,\" could you elaborate a bit on the complexity or scale of these applications? For instance, did they involve user authentication, database interactions beyond simple storage, or API integrations?",
+      "timestamp": "2026-02-18T16:29:09.361656"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, I have a, uh, I have integrated API, but I didn't use user authentication, database interaction or something. I am working-- I am looking to work for a project like, uh, I can use user authentication and database interactions, but I haven't used it yet. But I know what the means are.",
+      "timestamp": "2026-02-18T16:29:45.231961"
+    },
+    {
+      "role": "agent",
+      "text": "I understand. It's good that you're aware of those concepts. For a Full Stack Developer role, especially at the intern level, understanding the full scope of an application, including user authentication and database interactions, is quite valuable. Do you have any experience with version control systems like Git?",
+      "timestamp": "2026-02-18T16:29:49.781613"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T16:30:02.713036"
+    },
+    {
+      "role": "agent",
+      "text": "...with version control systems like Git?",
+      "timestamp": "2026-02-18T16:30:03.903323"
+    },
+    {
+      "role": "user",
+      "text": "Yeah.",
+      "timestamp": "2026-02-18T16:30:10.460705"
+    },
+    {
+      "role": "agent",
+      "text": "Great. Could you tell me about a ...",
+      "timestamp": "2026-02-18T16:30:12.227074"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T16:30:13.166937"
+    },
+    {
+      "role": "agent",
+      "text": "time you used Git for a project, perhaps describing your workflow or how you handled merging branches?",
+      "timestamp": "2026-02-18T16:30:14.833070"
+    },
+    {
+      "role": "user",
+      "text": "No, I don't use GitHub, but I do, do know how-- what the terms means.",
+      "timestamp": "2026-02-18T16:30:33.453791"
+    },
+    {
+      "role": "agent",
+      "text": "I see. While knowing the terms is a good start, practical experience with Git is quite important in development. Are you familiar with any agile methodologies like Scrum or Kanban?",
+      "timestamp": "2026-02-18T16:30:36.100604"
+    },
+    {
+      "role": "user",
+      "text": "No.",
+      "timestamp": "2026-02-18T16:30:49.272006"
+    },
+    {
+      "role": "agent",
+      "text": "No worries. We can definitely help you learn those here. Now, to confirm, your expected CTC is around ten thousand rupees per month, and you're available to work from our Jaipur office. Is that correct?",
+      "timestamp": "2026-02-18T16:30:52.769541"
+    },
+    {
+      "role": "user",
+      "text": "Yes.",
+      "timestamp": "2026-02-18T16:31:05.220609"
+    },
+    {
+      "role": "agent",
+      "text": "Perfect. Just a couple more things. Could you please provide your email address, spelling it out clearly for me? And what would be your availability for the next round of interviews?",
+      "timestamp": "2026-02-18T16:31:07.342563"
+    },
+    {
+      "role": "user",
+      "text": "Yeah, my email is D-I-V-Y-A at G-M-A-I-L dot C-O-M, and I would be available on Saturdays, if that works for you.",
+      "timestamp": "2026-02-18T16:31:28.287453"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you, Divya. So that's divya@gmail.com. We typically conduct interviews during weekdays, but I'll make a note of your Saturday availability. We'll get back to you with the next steps. Do you have any questions for me at this point?",
+      "timestamp": "2026-02-18T16:31:31.621556"
+    },
+    {
+      "role": "user",
+      "text": "Yeah. What is your company's name and where it is situated in Jaipur?",
+      "timestamp": "2026-02-18T16:31:50.018443"
+    },
+    {
+      "role": "agent",
+      "text": "Our company name is Kainskep Solutions, and we are situated in Vaishali Nagar, Jaipur.",
+      "timestamp": "2026-02-18T16:31:51.428555"
+    },
+    {
+      "role": "user",
+      "text": "Okay, so, um, do you, uh, do you have a five-day working right?",
+      "timestamp": "2026-02-18T16:32:05.093704"
+    },
+    {
+      "role": "agent",
+      "text": "Yes, we follow a five-day working week, Monday to Friday.",
+      "timestamp": "2026-02-18T16:32:06.244536"
+    },
+    {
+      "role": "user",
+      "text": "Mm-hmm. If you have a workload, do you want me to come to Saturday for the office?",
+      "timestamp": "2026-02-18T16:32:17.649977"
+    },
+    {
+      "role": "agent",
+      "text": "We are closed on Saturdays and Sundays. Our office hours are 10 AM to 7 PM.",
+      "timestamp": "2026-02-18T16:32:18.725067"
+    },
+    {
+      "role": "user",
+      "text": "Okay. Okay. Okay. Thank you.",
+      "timestamp": "2026-02-18T16:32:28.747868"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for your time. Your screening interview is complete. Based on your responses, shortlisted candidates will be contacted for the next round. Take care and goodbye.",
+      "timestamp": "2026-02-18T16:32:30.739593"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_162532.wav"
+}

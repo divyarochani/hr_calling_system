@@ -1,0 +1,73 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA0bdfa5c7432d302fd05c686f790388f5",
+  "start_time": "2026-02-18T18:33:42.048061",
+  "end_time": "2026-02-18T18:34:23.220545",
+  "duration_seconds": 41.172484,
+  "transfer_requested": true,
+  "transfer_number": "+918340552001",
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "7",
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T18:33:44.079538"
+    },
+    {
+      "role": "user",
+      "text": "Hello, Harsh.",
+      "timestamp": "2026-02-18T18:33:50.642249"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] How are you doing today?",
+      "timestamp": "2026-02-18T18:33:50.994961"
+    },
+    {
+      "role": "user",
+      "text": "I'm good. How are you?",
+      "timestamp": "2026-02-18T18:33:56.112480"
+    },
+    {
+      "role": "agent",
+      "text": "I am doing well, thank you. [happy] Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T18:33:57.442589"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I am looking for full stack development role. Are you open?",
+      "timestamp": "2026-02-18T18:34:07.927405"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Yes, we are definitely hiring for a Full Stack Developer role. Could you please tell me your full name?",
+      "timestamp": "2026-02-18T18:34:09.439520"
+    },
+    {
+      "role": "user",
+      "text": "[clears throat] So can you please let me know that if you are hiring for a junior or a senior level experienced person?",
+      "timestamp": "2026-02-18T18:34:22.823314"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_183342.wav"
+}

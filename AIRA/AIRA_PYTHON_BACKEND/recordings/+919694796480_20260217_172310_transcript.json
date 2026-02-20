@@ -1,0 +1,123 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA3dadb26a3a5cb8636cff89b03d6a84ff",
+  "start_time": "2026-02-17T17:23:10.435816",
+  "end_time": "2026-02-17T17:25:16.916222",
+  "duration_seconds": 126.480406,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": "HP",
+    "current_role": "Software Developer",
+    "desired_role": "Full Stack Developer",
+    "domain": "Full Stack Development",
+    "notice_period": "45 days",
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": "5.5",
+    "current_ctc_lpa": "5",
+    "expected_ctc_lpa": "8",
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": "8",
+    "technical_score": "7",
+    "overall_score": "7.5",
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-17T17:23:13.724372"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is Samarth, HR Executive from Kainskep Solutions. How are you today?",
+      "timestamp": "2026-02-17T17:23:15.024318"
+    },
+    {
+      "role": "user",
+      "text": "I'm good.",
+      "timestamp": "2026-02-17T17:23:23.393300"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-17T17:23:24.354264"
+    },
+    {
+      "role": "user",
+      "text": "Haan, main full stack development role ke liye dekh rahi hoon.",
+      "timestamp": "2026-02-17T17:23:34.765506"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great. May I know which domain you are currently interested in?",
+      "timestamp": "2026-02-17T17:23:35.711050"
+    },
+    {
+      "role": "user",
+      "text": "Haan, maine bolana hai full stack development.",
+      "timestamp": "2026-02-17T17:23:43.341346"
+    },
+    {
+      "role": "agent",
+      "text": "Ah, my apologies. You did mention Full Stack Development. [happy] That's a domain we frequently hire for.\n\nCould you please tell me how many years of experience you have in full stack development?",
+      "timestamp": "2026-02-17T17:23:45.825341"
+    },
+    {
+      "role": "user",
+      "text": "I have five point five years of experience.",
+      "timestamp": "2026-02-17T17:24:01.440836"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Five and a half years, that's excellent. And are you currently working somewhere?",
+      "timestamp": "2026-02-17T17:24:02.584501"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I'm working.",
+      "timestamp": "2026-02-17T17:24:12.896874"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Great. Could you please share your current company and your current role with me?",
+      "timestamp": "2026-02-17T17:24:13.891932"
+    },
+    {
+      "role": "user",
+      "text": "Current company is HP and my current role is software development.",
+      "timestamp": "2026-02-17T17:24:24.401945"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you. So, you're a Software Developer at HP with five and a half years of experience. That's very clear.\n\nCould you also let me know what your current CTC is and what your expected CTC would be for a new role?",
+      "timestamp": "2026-02-17T17:24:27.382405"
+    },
+    {
+      "role": "user",
+      "text": "The current CTC is five LPA. My expected CTC is eight LPA.",
+      "timestamp": "2026-02-17T17:24:46.680776"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you for sharing that. Eight LPA sounds good.\n\nCould you also let me know what your notice period is at your current company?",
+      "timestamp": "2026-02-17T17:24:48.611867"
+    },
+    {
+      "role": "user",
+      "text": "My current notice period is forty-five days.",
+      "timestamp": "2026-02-17T17:25:03.101411"
+    },
+    {
+      "role": "agent",
+      "text": "[slow] Alright, forty-five days.\n\nAnd regarding your current location, where are you currently based? And are you open to relocating to Jaipur for this role?",
+      "timestamp": "2026-02-17T17:25:05.179153"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260217_172310.wav"
+}

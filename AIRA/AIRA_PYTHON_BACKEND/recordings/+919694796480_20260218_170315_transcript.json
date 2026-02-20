@@ -1,0 +1,198 @@
+{
+  "phone_number": "+919694796480",
+  "call_sid": "CA1c81483f9379c0a26102865b767b4519",
+  "start_time": "2026-02-18T17:03:15.343457",
+  "end_time": "2026-02-18T17:07:55.382329",
+  "duration_seconds": 280.038872,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": "Nutan Kumari",
+    "current_company": "Skin Care Solution Private Limited",
+    "current_role": null,
+    "desired_role": "Full Stack Developer",
+    "domain": "Full Stack Developer",
+    "notice_period": "30 days",
+    "current_location": "Delhi",
+    "relocation_willing": "yes",
+    "experience_years": "1.8",
+    "current_ctc_lpa": "7-8",
+    "expected_ctc_lpa": "10-12",
+    "email": "nutankumari2254@gmail.com",
+    "next_round_availability": "Monday",
+    "communication_score": 6,
+    "technical_score": 5,
+    "overall_score": 5.5,
+    "interested": "yes",
+    "call_status": "Completed",
+    "disconnection_reason": "N/A"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hello, this is Harsh from Kainskep Solutions",
+      "timestamp": "2026-02-18T17:03:17.609414"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-18T17:03:25.058336"
+    },
+    {
+      "role": "agent",
+      "text": "How are you doing today?",
+      "timestamp": "2026-02-18T17:03:25.174358"
+    },
+    {
+      "role": "user",
+      "text": "I'm good.",
+      "timestamp": "2026-02-18T17:03:29.871376"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] That's great to hear. Are you currently open to exploring new job opportunities?",
+      "timestamp": "2026-02-18T17:03:30.991191"
+    },
+    {
+      "role": "user",
+      "text": "Yes, I am.",
+      "timestamp": "2026-02-18T17:03:39.025492"
+    },
+    {
+      "role": "agent",
+      "text": "[great] Great. To start, could you please tell me your full name and the domain you're interested in?",
+      "timestamp": "2026-02-18T17:03:40.273106"
+    },
+    {
+      "role": "user",
+      "text": "Yes, my full name is Nutan Kumari, and the domain-- my domain is, uh, Full Stack Developer.",
+      "timestamp": "2026-02-18T17:03:56.345705"
+    },
+    {
+      "role": "agent",
+      "text": "[happy] Thank you, Nutan. It's nice to meet you. So, you're interested in a Full Stack Developer role. Could you please share your current company and your total years of experience?",
+      "timestamp": "2026-02-18T17:03:59.239838"
+    },
+    {
+      "role": "user",
+      "text": "Yes, uh, my current company name is Skin Care Solution Private Limited, and, [clears throat] and my total experience is one point eight years.",
+      "timestamp": "2026-02-18T17:04:23.024921"
+    },
+    {
+      "role": "agent",
+      "text": "[great] Thank you, Nutan. And what is your current CTC and what are your salary expectations for a new role?",
+      "timestamp": "2026-02-18T17:04:24.653966"
+    },
+    {
+      "role": "user",
+      "text": "Uh, my current CTC is, uh, seven eighty and my expectation is around, uh, [clears throat] ten to twelve LPA.",
+      "timestamp": "2026-02-18T17:04:43.978685"
+    },
+    {
+      "role": "agent",
+      "text": "[okay] Thank you for sharing that, Nutan. Just to clarify, when you say seven eighty, do you mean seven point eight LPA?",
+      "timestamp": "2026-02-18T17:04:45.702426"
+    },
+    {
+      "role": "user",
+      "text": "I am saying seven two, uh, eight LPA.",
+      "timestamp": "2026-02-18T17:04:59.035620"
+    },
+    {
+      "role": "agent",
+      "text": "[understood] Understood. So your current CTC is between seven to eight LPA, and your expectation is around ten to twelve LPA. Thank you for clarifying. What is your notice period with your current company?",
+      "timestamp": "2026-02-18T17:05:02.168902"
+    },
+    {
+      "role": "user",
+      "text": "My notice period is, uh, thirty days. [clears throat]",
+      "timestamp": "2026-02-18T17:05:18.296390"
+    },
+    {
+      "role": "agent",
+      "text": "[great] That's great. And could you please tell me your current location and if you are open to relocating to Jaipur?",
+      "timestamp": "2026-02-18T17:05:20.124852"
+    },
+    {
+      "role": "user",
+      "text": "Sure, my current location is, uh, uh, Delhi, but, uh, yes, I am open to relocation.",
+      "timestamp": "2026-02-18T17:05:36.292081"
+    },
+    {
+      "role": "agent",
+      "text": "[excellent] Excellent. Since you're interested in a Full Stack Developer role, could you briefly explain the difference between SQL and NoSQL databases?",
+      "timestamp": "2026-02-18T17:05:38.380078"
+    },
+    {
+      "role": "user",
+      "text": "Yes, so SQL is Structured Query Language. It has data in the table, and NoSQL is unstructured, where the data is, uh, in-- stored in the form of objects, key value pairs.",
+      "timestamp": "2026-02-18T17:06:06.030036"
+    },
+    {
+      "role": "agent",
+      "text": "[great] That's a good explanation. Could you also tell me about the different types of HTTP methods and when you would use them?",
+      "timestamp": "2026-02-18T17:06:07.709163"
+    },
+    {
+      "role": "user",
+      "text": "Yes, the different types of HTTP methods is A, B, C.",
+      "timestamp": "2026-02-18T17:06:22.136073"
+    },
+    {
+      "role": "agent",
+      "text": "[okay] Thank you for that. Could you please elaborate a bit more on what those methods are and when you would typically use each one in web development?",
+      "timestamp": "2026-02-18T17:06:24.253540"
+    },
+    {
+      "role": "user",
+      "text": "Yes, [clears throat] I use A, B, C post methods when we want to send request, get request, response.",
+      "timestamp": "2026-02-18T17:06:43.663526"
+    },
+    {
+      "role": "agent",
+      "text": "[understood] Thank you...",
+      "timestamp": "2026-02-18T17:06:44.728482"
+    },
+    {
+      "role": "user",
+      "text": "[coughing] So at that time",
+      "timestamp": "2026-02-18T17:06:47.473911"
+    },
+    {
+      "role": "agent",
+      "text": "[understood] Thank you for that, Nutan. I appreciate your explanation. Now, to finalize your application, could you please provide your email address, and also let me know your availability for the next round of interviews?",
+      "timestamp": "2026-02-18T17:06:50.541689"
+    },
+    {
+      "role": "user",
+      "text": "Okay. Uh, could you please again, uh, tell what do you need from me?",
+      "timestamp": "2026-02-18T17:07:09.681089"
+    },
+    {
+      "role": "agent",
+      "text": "...",
+      "timestamp": "2026-02-18T17:07:10.663513"
+    },
+    {
+      "role": "user",
+      "text": "[coughing]",
+      "timestamp": "2026-02-18T17:07:11.635508"
+    },
+    {
+      "role": "agent",
+      "text": "[apologies] My apologies, Nutan. I was asking for your email address and your availability for the next round of interviews.",
+      "timestamp": "2026-02-18T17:07:13.392210"
+    },
+    {
+      "role": "user",
+      "text": "Okay. Uh, my email address is nutankumari2254@gmail.com. And, uh, for the next interview, I will be available, uh, on, uh, after, uh, three days on Monday.",
+      "timestamp": "2026-02-18T17:07:45.501733"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for your time. Your screening interview is complete. Based on your responses, shortlisted candidates will be contacted for the next round. Take care and goodbye.",
+      "timestamp": "2026-02-18T17:07:47.133342"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\+919694796480_20260218_170315.wav"
+}

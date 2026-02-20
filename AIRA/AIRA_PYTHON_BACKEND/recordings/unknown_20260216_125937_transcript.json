@@ -1,0 +1,58 @@
+{
+  "phone_number": "unknown",
+  "call_sid": "CAa858774f5a394dda513a03bb4c3550f0",
+  "start_time": "2026-02-16T12:59:37.694156",
+  "end_time": "2026-02-16T13:00:07.204138",
+  "duration_seconds": 29.509982,
+  "transfer_requested": false,
+  "transfer_number": null,
+  "structured_data": {
+    "candidate_name": null,
+    "current_company": null,
+    "current_role": null,
+    "desired_role": null,
+    "domain": null,
+    "notice_period": null,
+    "current_location": null,
+    "relocation_willing": null,
+    "experience_years": null,
+    "current_ctc_lpa": null,
+    "expected_ctc_lpa": null,
+    "email": null,
+    "next_round_availability": null,
+    "communication_score": null,
+    "technical_score": null,
+    "overall_score": null,
+    "interested": "no",
+    "call_status": "Not Interested",
+    "disconnection_reason": "Candidate not looking for opportunity"
+  },
+  "conversation": [
+    {
+      "role": "agent",
+      "text": "Hii , this is AIRA an AI recruiter from kainskep solutions.",
+      "timestamp": "2026-02-16T12:59:40.524404"
+    },
+    {
+      "role": "user",
+      "text": "Hello.",
+      "timestamp": "2026-02-16T12:59:49.808586"
+    },
+    {
+      "role": "agent",
+      "text": "Hello, this is AIRA from Kainskep Solutions. Are you currently looking for opportunities in any domain?",
+      "timestamp": "2026-02-16T12:59:51.002954"
+    },
+    {
+      "role": "user",
+      "text": "No, thank you. I'm not interested.",
+      "timestamp": "2026-02-16T13:00:01.272229"
+    },
+    {
+      "role": "agent",
+      "text": "Thank you for your time. Take care and goodbye.",
+      "timestamp": "2026-02-16T13:00:01.869382"
+    }
+  ],
+  "recording_path": "C:\\Users\\divya\\Desktop\\AIRA (2)\\AIRA\\AIRA_PYTHON_BACKEND\\recordings\\unknown_20260216_125937.wav"
+}
