@@ -134,7 +134,15 @@ async def transfer_to_human(request: Request):
     
     if settings.HUMAN_AGENT_NUMBER:
         response.say("Transferring you to a human agent. Please hold.")
-        response.dial(settings.HUMAN_AGENT_NUMBER)
+        
+        # Dial with error handling
+        dial = response.dial(
+            settings.HUMAN_AGENT_NUMBER,
+            timeout=30,  # Wait 30 seconds for answer
+            action=f"{settings.SERVER_URL}/transfer-status",  # Callback for dial status
+            method="POST"
+        )
+        
         logger.info(f"Transferring to human: {settings.HUMAN_AGENT_NUMBER}")
     else:
         response.say("I apologize, but human transfer is not available at the moment.")
@@ -142,6 +150,49 @@ async def transfer_to_human(request: Request):
     
     return Response(content=str(response), media_type="application/xml")
 
+
+@app.post("/transfer-status")
+async def transfer_status_callback(request: Request):
+    """Handle transfer dial status (success/failure)"""
+    form_data = await request.form()
+    dial_call_status = form_data.get("DialCallStatus")
+    call_sid = form_data.get("CallSid")
+    
+    logger.info(f"Transfer status for {call_sid}: {dial_call_status}")
+    print(f"📞 Transfer Status: {dial_call_status}")
+    
+    response = VoiceResponse()
+    
+    # Handle different dial outcomes
+    if dial_call_status in ["completed", "answered"]:
+        # Transfer successful - call will continue with human
+        logger.info(f"Transfer successful: {call_sid}")
+        print(f"✅ Transfer successful")
+    elif dial_call_status == "busy":
+        response.say("I'm sorry, but the agent is currently busy. Let me continue to assist you.")
+        logger.warning(f"Transfer failed - busy: {call_sid}")
+        print(f"⚠️  Agent busy")
+    elif dial_call_status == "no-answer":
+        response.say("I'm sorry, but no one is available to take your call right now. Let me continue to help you.")
+        logger.warning(f"Transfer failed - no answer: {call_sid}")
+        print(f"⚠️  No answer")
+    elif dial_call_status == "failed":
+        response.say("I'm sorry, but I'm unable to transfer your call at this time. Let me continue to assist you.")
+        logger.error(f"Transfer failed: {call_sid}")
+        print(f"❌ Transfer failed")
+    else:
+        # Unknown status
+        response.say("Let me continue to help you.")
+        logger.warning(f"Unknown transfer status: {dial_call_status}")
+    
+    # If transfer failed, redirect back to AI conversation
+    if dial_call_status not in ["completed", "answered"]:
+        # Reconnect to media stream
+        connect = response.connect()
+        domain = settings.SERVER_URL.replace('https://', '').replace('http://', '').rstrip('/')
+        stream = connect.stream(url=f"wss://{domain}/media")
+    
+    return Response(content=str(response), media_type="application/xml")
 
 @app.websocket("/media")
 async def media_websocket(websocket: WebSocket):
@@ -166,7 +217,16 @@ async def media_websocket(websocket: WebSocket):
         nonlocal transfer_requested
         if not settings.HUMAN_AGENT_NUMBER or not call_sid:
             logger.warning("Cannot transfer - missing config or call_sid")
-            return
+            # Notify user via AI that transfer is not available
+            if elevenlabs_ws:
+                try:
+                    await elevenlabs_ws.send(json.dumps({
+                        "type": "agent_response",
+                        "agent_response": "I apologize, but I'm unable to transfer you to a human agent at this moment. How else can I assist you?"
+                    }))
+                except:
+                    pass
+            return False
         
         try:
             transfer_requested = True
@@ -179,10 +239,26 @@ async def media_websocket(websocket: WebSocket):
             )
             
             print(f"✅ Transfer initiated\n")
+            return True
             
         except Exception as e:
             logger.error(f"Transfer failed: {e}")
             print(f"❌ Transfer failed: {e}\n")
+            
+            # Reset transfer flag so AI can continue
+            transfer_requested = False
+            
+            # Notify user that transfer failed
+            if elevenlabs_ws:
+                try:
+                    await elevenlabs_ws.send(json.dumps({
+                        "type": "agent_response",
+                        "agent_response": "I apologize, but I'm having trouble transferring your call right now. Let me continue to help you. What would you like to know?"
+                    }))
+                except:
+                    pass
+            
+            return False
     
     try:
         # Connect to ElevenLabs

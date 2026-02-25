@@ -1,12 +1,14 @@
 const cron = require('node-cron');
 const axios = require('axios');
 const Candidate = require('../models/Candidate');
+const Call = require('../models/Call');
 const chrono = require('chrono-node');
 
 class SchedulerService {
     constructor() {
         this.scheduledCalls = new Map();
         this.startScheduler();
+        this.startCallCleanup();
     }
 
     startScheduler() {
@@ -16,6 +18,42 @@ class SchedulerService {
         });
         
         console.log('📅 Call Scheduler started - checking every minute');
+    }
+
+    startCallCleanup() {
+        // Cleanup stuck calls every 30 minutes
+        cron.schedule('*/30 * * * *', async () => {
+            await this.cleanupStuckCalls();
+        });
+        
+        console.log('🧹 Call Cleanup Scheduler started - running every 30 minutes');
+    }
+
+    async cleanupStuckCalls() {
+        try {
+            const STUCK_THRESHOLD_MINUTES = 60; // 1 hour
+            const thresholdTime = new Date(Date.now() - STUCK_THRESHOLD_MINUTES * 60 * 1000);
+
+            // Find and update stuck calls
+            const result = await Call.updateMany(
+                {
+                    status: { $in: ['initiated', 'ringing', 'connected', 'ongoing'] },
+                    createdAt: { $lt: thresholdTime }
+                },
+                {
+                    $set: {
+                        status: 'failed',
+                        endTime: new Date(),
+                    }
+                }
+            );
+
+            if (result.modifiedCount > 0) {
+                console.log(`🧹 Cleaned up ${result.modifiedCount} stuck calls`);
+            }
+        } catch (error) {
+            console.error('Error cleaning up stuck calls:', error);
+        }
     }
 
     async checkScheduledCalls() {

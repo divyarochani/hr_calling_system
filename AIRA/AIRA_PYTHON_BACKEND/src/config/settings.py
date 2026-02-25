@@ -40,7 +40,7 @@ RECORDINGS_DIR.mkdir(exist_ok=True)
 
 # Transfer Keywords
 TRANSFER_KEYWORDS = [
-    "human", "agent", "person", "representative", "operator",
+    "human", "agent","senior", "representative", "operator",
     "transfer", "speak to someone", "talk to someone", 
     "real person", "live agent", "customer service",
     "speak with", "talk with", "connect me", "real human",

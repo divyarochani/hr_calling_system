@@ -42,14 +42,27 @@ class TwilioService:
             raise
     
     def transfer_call(self, call_sid: str, transfer_url: str):
-        """Transfer call to another endpoint"""
+        """
+        Transfer call to another endpoint
+        
+        Args:
+            call_sid: The Twilio call SID to transfer
+            transfer_url: The URL to redirect the call to
+            
+        Returns:
+            Updated call object
+            
+        Raises:
+            Exception: If transfer fails with details
+        """
         try:
             call = self.client.calls(call_sid).update(
                 url=transfer_url,
                 method="POST"
             )
-            logger.info(f"Call transfer initiated: {call.status}")
+            logger.info(f"Call transfer initiated: {call_sid} -> {call.status}")
             return call
         except Exception as e:
-            logger.error(f"Transfer failed: {e}")
-            raise
+            error_msg = f"Transfer failed for {call_sid}: {str(e)}"
+            logger.error(error_msg)
+            raise Exception(error_msg)
