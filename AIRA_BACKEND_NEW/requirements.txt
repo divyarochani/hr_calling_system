@@ -1,0 +1,50 @@
+# FastAPI and server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+python-multipart==0.0.6
+
+# Database - MongoDB
+motor==3.3.2
+pymongo==4.6.1
+beanie==1.24.0
+
+# Authentication
+python-jose[cryptography]==3.3.0
+passlib[bcrypt]==1.7.4
+bcrypt==4.1.2
+
+# Environment and config
+python-dotenv==1.0.0
+pydantic==2.5.3
+pydantic-settings==2.1.0
+
+# HTTP client
+httpx==0.26.0
+
+# Twilio
+twilio==8.11.0
+
+# Azure OpenAI
+openai==1.10.0
+
+# Azure Blob Storage
+azure-storage-blob==12.19.0
+
+# ElevenLabs
+elevenlabs==0.2.27
+
+# Utilities
+python-dateutil==2.8.2
+pytz==2023.3
+
+# CORS
+fastapi-cors==0.0.6
+
+# Logging
+structlog==24.1.0
+
+# Socket.IO for real-time updates
+python-socketio==5.11.0
+
+# Audio processing
+pydub==0.25.1

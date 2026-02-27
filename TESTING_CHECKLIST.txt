@@ -1,0 +1,110 @@
+AIRA SYSTEM - TESTING CHECKLIST
+================================
+
+STEP 1: START SYSTEM
+--------------------
+Option A: Use batch file
+  - Double click START_SYSTEM.bat
+  
+Option B: Manual start
+  Terminal 1: cd AIRA_BACKEND_NEW && python run.py
+  Terminal 2: cd AIRA_FRONTEND && npm start
+
+Wait for:
+  Backend: "Application startup complete"
+  Frontend: "Compiled successfully!"
+
+STEP 2: VERIFY BACKEND
+-----------------------
+✓ Open: http://localhost:8001/health
+✓ Should see: {"status":"healthy","socketio":"enabled"}
+✓ Check terminal for: "Server initialized for asgi"
+
+STEP 3: VERIFY FRONTEND
+------------------------
+✓ Open: http://localhost:3000
+✓ Login with admin credentials
+✓ Check browser console (F12)
+✓ Should see: "✅ Socket.IO connected successfully"
+✓ Should see green dot on pages
+
+STEP 4: TEST REAL-TIME UPDATES
+-------------------------------
+Method 1: Using Test Script
+  - Keep frontend open on "Make a Call" page
+  - New terminal: cd AIRA_BACKEND_NEW
+  - Run: python test_realtime_call.py
+  - Watch frontend update automatically
+
+Method 2: Manual Test
+  1. Go to "Make a Call" page
+  2. Enter phone: +919876543210
+  3. Click "Make Call"
+  4. Watch console for events:
+     - "📞 Call initiated successfully"
+     - "📡 Socket.IO event: call:status"
+     - Status changes: initiated → ringing → connected
+  5. Page should auto-redirect to Call Dashboard
+  6. Check Call Dashboard shows active call
+
+STEP 5: VERIFY TODAY'S CALLS
+-----------------------------
+✓ Go to Call Dashboard
+✓ Check "Total Calls Today" card
+✓ Should show count of calls made today
+✓ Make a new call
+✓ Count should increase automatically
+
+STEP 6: VERIFY TIMEZONE (IST)
+------------------------------
+✓ Check any timestamp on pages
+✓ Should match your local India time
+✓ Format: "Feb 26, 2026 23:07" (IST)
+
+COMMON ISSUES & FIXES
+=====================
+
+Issue: Socket.IO not connecting (red dot)
+Fix: 
+  - Check backend is running on port 8001
+  - Check browser console for errors
+  - Restart both backend and frontend
+
+Issue: No real-time updates
+Fix:
+  - Check green dot is showing (Socket.IO connected)
+  - Check browser console for Socket.IO events
+  - Check backend terminal for emit logs
+  - Run test script to verify
+
+Issue: Today's calls showing 0
+Fix:
+  - Make a test call
+  - Check browser console for errors
+  - Verify backend is returning calls
+  - Check: http://localhost:8001/calls
+
+Issue: Times showing wrong timezone
+Fix:
+  - Clear browser cache
+  - Hard refresh (Ctrl+Shift+R)
+  - Check dateUtils.js is being used
+
+SUCCESS CRITERIA
+================
+✅ Backend running without errors
+✅ Frontend running without errors
+✅ Socket.IO connected (green dot)
+✅ Real-time call status updates working
+✅ Auto-redirect on call connect
+✅ Today's calls count accurate
+✅ Timestamps in IST
+✅ Active calls table updates automatically
+✅ No page refresh needed for updates
+
+MANUAL TEST ENDPOINTS
+=====================
+Test Socket.IO: http://localhost:8001/test-socketio
+Test Call Event: http://localhost:8001/test-call-event
+Health Check: http://localhost:8001/health
+API Docs: http://localhost:8001/docs

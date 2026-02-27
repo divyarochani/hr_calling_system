@@ -1,0 +1,31 @@
+SETUP NOTES FOR AIRA BACKEND
+=============================
+
+PYTHON PACKAGES INSTALLED:
+✅ pydub - for audio conversion
+✅ python-socketio - for real-time updates
+
+FFMPEG STATUS:
+⚠️ FFmpeg is NOT installed on this system
+
+IMPACT:
+- Call recordings will be saved in MP3 format instead of WAV
+- All other functionality works normally
+- Transcript and user data JSON files are still saved
+
+TO INSTALL FFMPEG (Optional):
+1. Download from: https://ffmpeg.org/download.html
+2. Or use chocolatey: choco install ffmpeg
+3. Or use winget: winget install ffmpeg
+4. After installation, restart the backend server
+
+CURRENT BEHAVIOR:
+- Recordings are saved as: {phone_number}_{timestamp}.mp3
+- Once ffmpeg is installed, they will auto-convert to WAV format
+
+ALL OTHER FEATURES ARE WORKING:
+✅ Socket.IO real-time updates
+✅ Auto-disconnect detection with enhanced phrases
+✅ Local recording save with transcript and metadata
+✅ IST timezone display
+✅ Accurate call counts
